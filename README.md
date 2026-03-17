@@ -16,7 +16,7 @@ O site do Grupo Cecil apresentava baixa cobertura de indexação no Google, impa
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Melhorar a indexação do site, garantindo que páginas relevantes fossem rastreadas e exibidas corretamente no Google.
 
@@ -26,9 +26,6 @@ Melhorar a indexação do site, garantindo que páginas relevantes fossem rastre
 
 A análise foi realizada por meio do Google Search Console, identificando falhas na cobertura e páginas excluídas do índice.
 
-###  Cobertura do site
-
-###  Páginas excluídas
 
 ---
 
@@ -45,9 +42,10 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 
 ##  Resultados
 
-- Melhoria na cobertura de páginas indexadas
-- Redução de erros de indexação
-- Aumento da presença de páginas válidas no Google
+- Identificação de gargalos técnicos que impactavam SEO
+- Mapeamento de falhas de indexação
+- Diagnóstico de problemas críticos de performance mobile
+- Base estruturada para otimização técnica e ganho de visibilidade orgânica
 
 ---
 
