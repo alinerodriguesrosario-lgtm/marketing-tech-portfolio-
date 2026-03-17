@@ -26,11 +26,9 @@ Melhorar a indexação do site, garantindo que páginas relevantes fossem rastre
 
 A análise foi realizada por meio do Google Search Console, identificando falhas na cobertura e páginas excluídas do índice.
 
-### 📸 Cobertura do site
-![Cobertura](./images/print1.png)
+###  Cobertura do site
 
-### 📸 Páginas excluídas
-![Excluídas](./images/print2.png)
+###  Páginas excluídas
 
 ---
 
@@ -45,7 +43,7 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 
 ---
 
-## 📈 Resultados
+##  Resultados
 
 - Melhoria na cobertura de páginas indexadas
 - Redução de erros de indexação
@@ -53,7 +51,7 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 
 ---
 
-## 🧠 Aprendizados
+##  Aprendizados
 
 - A indexação é base para qualquer estratégia de SEO
 - Problemas técnicos impactam diretamente a visibilidade
@@ -61,7 +59,7 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+##  Ferramentas utilizadas
 
 - Google Search Console
 - PageSpeed Insights
