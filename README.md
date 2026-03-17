@@ -34,5 +34,5 @@ Experiência em projetos de SEO, conteúdo estratégico e otimização de canais
 
 ##  Contato
 
-- LinkedIn:  https://www.linkedin.com/in/alinerosario/)](https://www.linkedin.com/in/alinerosario/
-- Portfólio: [behance.net/alinerosario](https://www.behance.net/alinerosario)
+- LinkedIn:  https://www.linkedin.com/in/alinerosario/
+- Portfólio: https://www.behance.net/alinerosario
