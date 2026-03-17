@@ -10,7 +10,8 @@ Portfólio focado em Marketing orientado a dados, SEO técnico e performance dig
 Projeto focado na análise e melhoria da indexação de páginas no Google.
 
 👉 Acesse o case completo:  
-https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-.git
+
+cecil-seo-indexacao
 
 ---
 
