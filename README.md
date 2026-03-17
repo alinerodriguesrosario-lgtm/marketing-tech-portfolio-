@@ -1,6 +1,6 @@
-Marketing Tech Portfolio — Aline Rosário
+## Marketing Tech Portfolio — Aline Rosário
 
-Portfólio focado em Marketing orientado a dados, SEO técnico e performance digital.
+### Portfólio focado em Marketing orientado a dados, SEO técnico e performance digital.
 
 ---
 
