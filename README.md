@@ -1,21 +1,20 @@
-#  Marketing Tech Portfolio — Aline Rosário
+Marketing Tech Portfolio — Aline Rosário
 
 Portfólio focado em Marketing orientado a dados, SEO técnico e performance digital.
 
 ---
 
-##  Cases
+## Cases
 
-###  Indexação SEO —  Site Elfer - Grupo Cecil
+### Indexação SEO — Site Elfer_Grupo Cecil
 Projeto focado na análise e melhoria da indexação de páginas no Google.
 
 👉 Acesse o case completo:  
-
-cecil-seo-indexacao
+/cases/cecil-seo-indexacao
 
 ---
 
-##  Skills aplicadas
+## Skills aplicadas
 
 - SEO Técnico
 - Google Search Console
