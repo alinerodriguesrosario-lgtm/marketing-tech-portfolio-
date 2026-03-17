@@ -58,13 +58,20 @@ Com base no diagnóstico, foram implementadas melhorias técnicas no site:
 
 ##  Resultados
 
-Após a implementação das melhorias, foi possível observar:
+Após a implementação das melhorias, foi possível observar qualitativamente:
 
-- Evolução nas métricas de performance  
-- Melhora na estabilidade visual da página  
+- Melhora na estabilidade visual das páginas  
+- Redução de problemas perceptíveis de carregamento  
 - Avanço na indexação de páginas no Google  
 - Melhor experiência de navegação, principalmente em dispositivos mobile  
 
+*Observação: não foram coletados dados quantitativos antes e depois da implementação, mas as melhorias seguem boas práticas de SEO e performance.*
+
+##  Limitação da análise
+
+Não foram registrados dados comparativos estruturados antes e depois da implementação.
+
+Ainda assim, as melhorias aplicadas estão alinhadas às boas práticas de mercado e têm impacto direto em SEO, performance e experiência do usuário.
 ---
 
 ##  Impacto no negócio
