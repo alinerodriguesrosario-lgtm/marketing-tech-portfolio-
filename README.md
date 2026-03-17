@@ -1,14 +1,14 @@
-# 🔎 Indexação e SEO Técnico — Grupo Cecil
+#  Indexação e SEO Técnico — Grupo Cecil
 
 ---
 
-## 🧩 Contexto
+##  Contexto
 
 O site do Grupo Cecil apresentava baixa cobertura de indexação no Google, impactando sua visibilidade orgânica e presença nos resultados de busca.
 
 ---
 
-## 🚨 Problema
+##  Problema
 
 - Páginas importantes não estavam indexadas
 - Erros de cobertura no Google Search Console
@@ -22,7 +22,7 @@ Melhorar a indexação do site, garantindo que páginas relevantes fossem rastre
 
 ---
 
-## 🔍 Diagnóstico
+##  Diagnóstico
 
 A análise foi realizada por meio do Google Search Console, identificando falhas na cobertura e páginas excluídas do índice.
 
@@ -34,12 +34,14 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 
 ---
 
-## ⚙️ Ações realizadas
+##  Ações realizadas
 
-- Análise da cobertura de indexação
-- Identificação de páginas excluídas
-- Revisão de URLs indexáveis
-- Monitoramento contínuo via Search Console
+- Diagnóstico técnico completo do site
+- Análise de indexação via Search Console
+- Identificação de falhas de performance (mobile e desktop)
+- Avaliação de Core Web Vitals
+- Verificação de implementação de tags (GTM)
+- Análise de plugins SEO (Yoast e Site Kit)
 
 ---
 
@@ -62,4 +64,9 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 ## 🛠️ Ferramentas utilizadas
 
 - Google Search Console
-- Google Analytics
+- PageSpeed Insights
+- Google Tag Manager
+- Tag Assistant
+- Yoast SEO
+- Site Kit (Google)
+
