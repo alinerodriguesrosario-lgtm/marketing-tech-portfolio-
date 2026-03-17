@@ -27,18 +27,12 @@ A análise técnica foi realizada utilizando ferramentas do ecossistema Google e
 - Identificação de páginas não indexadas  
 - Análise da cobertura de indexação  
 
-###  PageSpeed Insights
-- Baixo desempenho em mobile  
-- Alto Cumulative Layout Shift (CLS)  
-- Problemas de carregamento e renderização  
+###  Indexação SEO —  Site Elfer - Grupo Cecil
+Projeto focado na análise e melhoria da indexação de páginas no Google.
 
-###  Google Tag Manager / Tag Assistant
-- Validação da implementação de tags  
-- Verificação do funcionamento do rastreamento  
+👉 Acesse o case completo:  
 
-###  WordPress (Plugins)
-- Site Kit (integração com ferramentas Google)  
-- Yoast SEO (otimização on-page)
+cecil-seo-indexacao
 
 ---
 
@@ -119,7 +113,7 @@ Validação do funcionamento das tags de rastreamento.
 
 ---
 
-## 🎯 Conclusão
+##  Conclusão
 
 Este projeto demonstra a aplicação prática de SEO técnico e otimização de performance em um ambiente real, com foco em melhoria contínua e impacto direto na presença digital da marca.
 
