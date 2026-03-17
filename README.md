@@ -1,66 +1,38 @@
-# 🔎 Indexação e SEO Técnico — Grupo Cecil
+#  Marketing Tech Portfolio — Aline Rosário
+
+Portfólio focado em Marketing orientado a dados, SEO técnico e performance digital.
 
 ---
 
-## 🧩 Contexto
+##  Cases
 
-O site do Grupo Cecil apresentava baixa cobertura de indexação no Google, impactando sua visibilidade orgânica e presença nos resultados de busca.
+###  Indexação SEO — Grupo Cecil
+Projeto focado na análise e melhoria da indexação de páginas no Google.
 
----
-
-## 🚨 Problema
-
-- Páginas importantes não estavam indexadas
-- Erros de cobertura no Google Search Console
-- Baixa presença nos resultados orgânicos
+👉 Acesse o case completo:  
+/cases/cecil-seo-indexacao
 
 ---
 
-## 🎯 Objetivo
+##  Skills aplicadas
 
-Melhorar a indexação do site, garantindo que páginas relevantes fossem rastreadas e exibidas corretamente no Google.
-
----
-
-## 🔍 Diagnóstico
-
-A análise foi realizada por meio do Google Search Console, identificando falhas na cobertura e páginas excluídas do índice.
-
-### 📸 Cobertura do site
-![Cobertura](./images/print1.png)
-
-### 📸 Páginas excluídas
-![Excluídas](./images/print2.png)
-
----
-
-## ⚙️ Ações realizadas
-
-- Análise da cobertura de indexação
-- Identificação de páginas excluídas
-- Revisão de URLs indexáveis
-- Monitoramento contínuo via Search Console
-
----
-
-## 📈 Resultados
-
-- Melhoria na cobertura de páginas indexadas
-- Redução de erros de indexação
-- Aumento da presença de páginas válidas no Google
-
----
-
-## 🧠 Aprendizados
-
-- A indexação é base para qualquer estratégia de SEO
-- Problemas técnicos impactam diretamente a visibilidade
-- O monitoramento contínuo é essencial para performance orgânica
-
----
-
-## 🛠️ Ferramentas utilizadas
-
+- SEO Técnico
 - Google Search Console
-- PageSpeed Insights
-- Tag Manager
+- Análise de indexação
+- Estrutura de sites
+- Performance e visibilidade orgânica
+
+---
+
+##  Sobre mim
+
+Profissional de Comunicação, Branding e Marketing Digital com foco em performance, dados e presença digital.
+
+Experiência em projetos de SEO, conteúdo estratégico e otimização de canais digitais.
+
+---
+
+##  Contato
+
+- LinkedIn: [(seu link)](https://www.linkedin.com/in/alinerosario/)
+- Portfólio: [behance.net/alinerosario](https://www.behance.net/alinerosario)
