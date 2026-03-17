@@ -62,4 +62,5 @@ A análise foi realizada por meio do Google Search Console, identificando falhas
 ## 🛠️ Ferramentas utilizadas
 
 - Google Search Console
-- Google Analytics
+- PageSpeed Insights
+- Tag Manager
