@@ -18,8 +18,15 @@ Melhoria na estrutura de indexação e base para crescimento orgânico
 
 ---
 
-###  Mídia Paga
-👉 [Case — Performance Meta Ads e Google Ads (São Lucas)](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Performance_Midia-Paga_laboratorios)
+### Mídia Paga — São Lucas
+- Planejamento e estruturação de campanhas
+- Segmentação e otimização contínua
+- Análise de métricas e ajustes estratégicos
+
+📊 Resultado:
+Campanhas mais eficientes e direcionadas para conversão
+
+👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Performance_Midia-Paga_laboratorios)
 
 ---
 
