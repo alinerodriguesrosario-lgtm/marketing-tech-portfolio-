@@ -18,13 +18,11 @@ Projetos aplicados de SEO técnico, performance e mídia paga com foco em impact
 
 ##  Sobre mim
 
-Profissional de Comunicação, Branding e Marketing Digital com foco em:
+Sou Comunicadora, Designer e Social Media com foco em estratégia digital, SEO técnico e performance.
 
-- SEO técnico  
-- Performance digital  
-- Estratégia de conteúdo  
-- Mídia paga  
-
+Atuo conectando criatividade e dados para transformar marcas em presença relevante e estruturada no digital.
+Especialista em Mídia, Informação e Cultura — ECA/USP  
+  
 👉 [Ver perfil completo](https://github.com/alinerodriguesrosario-lgtm)
 
 ---
