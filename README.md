@@ -7,12 +7,12 @@ Projetos aplicados de SEO técnico, performance e mídia paga com foco em impact
 ##  Cases
 
 ###  SEO e Performance
-👉 [Case — Indexação e Core Web Vitals (Grupo Cecil)](./cases/cecil-seo-indexacao)
+👉 [Case — Indexação e Core Web Vitals (Grupo Cecil)](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Indexa%C3%A7%C3%A3o-SEO-Site-Elfer_Grupo-Cecil)
 
 ---
 
 ###  Mídia Paga
-👉 [Case — Performance Meta Ads e Google Ads (São Lucas)](./cases/midia-paga-sao-lucas)
+👉 [Case — Performance Meta Ads e Google Ads (São Lucas)](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Performance_Midia-Paga_laboratorios)
 
 ---
 
