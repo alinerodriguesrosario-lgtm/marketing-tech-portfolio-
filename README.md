@@ -25,7 +25,7 @@ Profissional de Comunicação, Branding e Marketing Digital com foco em:
 - Estratégia de conteúdo  
 - Mídia paga  
 
-👉 [Ver perfil completo](./sobre-mim.md)
+👉 [Ver perfil completo](https://github.com/alinerodriguesrosario-lgtm)
 
 ---
 
