@@ -40,6 +40,40 @@ Estruturação e otimização de campanhas com foco em eficiência e geração d
 
 👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Estrat%C3%A9gia-Completa-Vis%C3%A3o-integrada)
 
+### 📈 Google Ads — Campanhas de Performance
+Estruturação de campanhas com foco em captura de demanda e geração de leads qualificados.
+
+**Principais ações:**
+- Planejamento de campanhas com base em palavras-chave estratégicas  
+- Organização de grupos de anúncios por intenção de busca  
+- Otimização contínua de CPC e termos de pesquisa  
+- Monitoramento e ajustes com base em métricas de performance  
+
+**Impacto:**
+- Maior precisão na captação de demanda  
+- Redução de desperdício de investimento  
+- Aumento da eficiência das campanhas  
+
+👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Google-Ads-Performance-e-Conversao)
+
+---
+
+### 📊 Meta Ads — Estratégia de Aquisição
+Gestão de campanhas com foco em segmentação e otimização de conversão ao longo do funil.
+
+**Principais ações:**
+- Definição de públicos (interesses, comportamento e remarketing)  
+- Estruturação de campanhas por etapa do funil  
+- Testes A/B de criativos e copies  
+- Otimização baseada em dados de performance  
+
+**Impacto:**
+- Melhor qualificação de público  
+- Aumento de taxa de conversão  
+- Maior eficiência no uso do orçamento  
+
+👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Meta-Ads-Alcance-e-Engajamento)
+
 ---
 
 ## 👩‍💻 Sobre mim
