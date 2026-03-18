@@ -7,7 +7,7 @@ Projetos aplicados de SEO técnico, performance e mídia paga com foco em impact
 ##  Cases
 
 ###  SEO e Performance
-👉 [Case — Indexação e Core Web Vitals (Grupo Cecil)](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Indexa%C3%A7%C3%A3o-SEO-Site-Elfer_Grupo-Cecil)
+👉 [Case — Indexação e Core Web Vitals (Grupo Cecil)](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Indexa%C3%A7%C3%A3o-SEO-Site-Elfer_Grupo-Cecil).
 
 ---
 
