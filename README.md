@@ -14,8 +14,7 @@ Projetos aplicados de SEO técnico, performance e mídia paga com foco em impact
 📈 Resultado:
 Melhoria na estrutura de indexação e base para crescimento orgânico
 
-👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Indexa%C3%A7%C3%A3o-SEO-Site-Elfer_Grupo-Cecil)
-
+👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Performance_Midia-Paga_laboratorios)
 ---
 
 ### Mídia Paga — São Lucas
