@@ -20,7 +20,7 @@ Diagnóstico e otimização da estrutura de indexação para melhorar a leitura 
 - Aumento do potencial de visibilidade orgânica  
 - Base técnica estruturada para crescimento em SEO  
 
-👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/CASES/GRUPO-CECIL-SEO-indexacao)
+👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Indexa%C3%A7%C3%A3o-SEO-Site-Elfer_Grupo-Cecil)
 
 ---
 
@@ -38,7 +38,7 @@ Estruturação e otimização de campanhas com foco em eficiência e geração d
 - Melhor direcionamento para conversão  
 - Redução de desperdício de investimento  
 
-👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/CASES/MIDIA-PAGA-SAO-LUCAS)
+👉 [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Estrat%C3%A9gia-Completa-Vis%C3%A3o-integrada)
 
 ---
 
