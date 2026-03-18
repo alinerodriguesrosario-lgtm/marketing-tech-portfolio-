@@ -23,7 +23,6 @@ Sou Comunicadora, Designer e Social Media com foco em estratégia digital, SEO t
 Atuo conectando criatividade e dados para transformar marcas em presença relevante e estruturada no digital.
 Especialista em Mídia, Informação e Cultura — ECA/USP  
   
-👉 [Ver perfil completo](https://github.com/alinerodriguesrosario-lgtm)
 
 ---
 
