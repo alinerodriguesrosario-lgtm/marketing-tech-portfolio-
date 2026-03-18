@@ -36,7 +36,18 @@ Sou Comunicadora, Designer e Social Media com foco em estratégia digital, SEO t
 
 Atuo conectando criatividade e dados para transformar marcas em presença relevante e estruturada no digital.
 Especialista em Mídia, Informação e Cultura — ECA/USP  
-  
+
+ ##  Como eu penso marketing
+
+Não trabalho só com execução.
+
+Meu foco é estruturar:
+- Jornada do usuário
+- Qualidade de dados
+- Performance de aquisição
+- Escalabilidade de marketing
+
+Porque campanha sem estrutura é só dinheiro indo embora com estilo.
 
 ---
 
@@ -50,7 +61,10 @@ Especialista em Mídia, Informação e Cultura — ECA/USP
 
 ---
 
-##  Contato
+## 📬 Vamos conversar
+
+Se você precisa de alguém que conecta estratégia, dados e execução:
 
 - LinkedIn:  https://www.linkedin.com/in/alinerosario/
 - Portfólio: https://www.behance.net/alinerosario
+- E-mail:    aline.rodrigues.rosario@gmail.com
