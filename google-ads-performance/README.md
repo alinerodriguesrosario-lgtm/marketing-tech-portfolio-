@@ -1,4 +1,4 @@
-# 🔎 Caso – Google Ads | Desempenho de Conversão  
+# 🔎 Google Ads — Campanhas de Performance  
 **Cliente:** São Lucas (Serviços laboratoriais)
 
 ---
