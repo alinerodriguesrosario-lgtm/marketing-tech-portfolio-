@@ -1,4 +1,4 @@
-# Marketing Tech Portfolio — Aline Rosário
+# Marketing Tech Portfólio — Aline Rosário
 
 Projetos aplicados de **SEO técnico, mídia paga e performance digital**, com foco em **estruturação de dados, visibilidade e geração de demanda qualificada**.
 
