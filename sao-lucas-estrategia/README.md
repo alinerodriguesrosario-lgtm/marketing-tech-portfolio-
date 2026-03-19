@@ -1,4 +1,4 @@
-# 📊 Performance de Mídia Paga na Saúde  
+# 📊 Meta Ads e Google Ads — São Lucas
 **Meta Ads + Google Ads | São Lucas e Seu Laboratório**
 
 ---
