@@ -1,4 +1,4 @@
-# 🧠 Case de SEO e Performance – Site Elfer | Grupo Cecil
+# 🧠 SEO Técnico — Grupo Cecil
 
 Este projeto apresenta a análise e implementação de melhorias técnicas no site institucional da Elfer, com foco em SEO técnico, performance e rastreamento de dados.
 
