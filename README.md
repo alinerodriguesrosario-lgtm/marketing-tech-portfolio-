@@ -20,7 +20,7 @@ Diagnóstico e otimização da estrutura de indexação para melhorar a leitura 
 - Aumento do potencial de visibilidade orgânica  
 - Base técnica estruturada para crescimento em SEO  
 
-👉 [Ver case completo](./Indexacao-SEO-Site-Elfer_Grupo-Cecil)
+👉 [Ver case completo](./grupo-cecil-seo)
 
 ---
 
@@ -38,7 +38,7 @@ Estruturação e otimização de campanhas com foco em eficiência e geração d
 - Melhor direcionamento para conversão  
 - Redução de desperdício de investimento  
 
-👉 [Ver case completo](./Estrategia-Completa-Visao-integrada)
+👉[Ver case completo](./Estrategia-Completa-Visao-integrada)
 
 ---
 
@@ -56,7 +56,7 @@ Estruturação de campanhas com foco em captura de demanda e geração de leads 
 - Redução de desperdício de investimento  
 - Aumento da eficiência das campanhas  
 
-👉 [Ver case completo](./Google-Ads-Performance-e-Conversao)
+👉  [Ver case completo](./google-ads-performance)
 
 ---
 
@@ -74,7 +74,7 @@ Gestão de campanhas com foco em segmentação e otimização de conversão ao l
 - Aumento de taxa de conversão  
 - Maior eficiência no uso do orçamento  
 
-👉 [Ver case completo](./Meta-Ads-Alcance-e-Engajamento)
+👉 [Ver case completo](./meta-ads-aquisicao)
 
 ---
 
