@@ -38,7 +38,7 @@ Estruturação e otimização de campanhas com foco em eficiência e geração d
 - Melhor direcionamento para conversão  
 - Redução de desperdício de investimento  
 
-👉[Ver case completo](./Estrategia-Completa-Visao-integrada)
+👉[Ver case completo](./sao-lucas-estrategia)
 
 ---
 
