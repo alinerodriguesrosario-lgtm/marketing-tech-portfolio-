@@ -1,4 +1,4 @@
-# 📱 Case – Meta Ads | Estratégia de Alcance  
+# 📱 Meta Ads — Estratégia de Aquisição  
 **Cliente:** São Lucas (Serviços laboratoriais)
 
 ---
