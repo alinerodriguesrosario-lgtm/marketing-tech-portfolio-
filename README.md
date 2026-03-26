@@ -1,9 +1,6 @@
 ![Capa](./images/capa-.png)
 
 # 👩‍💻 Aline Rosário  
-### Portfólio de Marketing Tech, Performance e Dados
-
-Construo marketing como sistema: **dados + aquisição + performance trabalhando de forma integrada**.
 
 Projetos aplicados em **SEO técnico, mídia paga e estratégia digital**, com foco em crescimento estruturado e mensurável.
 
