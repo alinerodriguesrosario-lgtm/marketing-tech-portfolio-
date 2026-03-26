@@ -1,126 +1,140 @@
-# 📱 Meta Ads — Estratégia de Aquisição  
-**Cliente:** São Lucas (Serviços laboratoriais)
+## 📱 Meta Ads — Estratégia de Aquisição  
+**Cliente:** São Lucas (Serviços Laboratoriais)
 
 ---
 
-## 🎯 Objetivo
-Gerar alcance e reconhecimento de marca para serviços laboratoriais, priorizando eficiência de custo e distribuição.
+### 🎯 Objetivo
+
+Gerar **alcance e reconhecimento de marca**, com foco em:
+
+- eficiência de custo  
+- distribuição qualificada  
+- geração de interesse  
 
 ---
 
-## 📊 Resultados
+### 📊 Resultados
 
-- **Alcance:** 105.105  
-- **Impressões:** 153.078  
-- **Cliques no link:** 1.440  
-- **CTR:** 0,94%  
-- **CPC médio:** R$0,45  
-- **Investimento total:** R$653,51  
-- **Frequência:** 1,46  
-
----
-
-## 📈 Principais Insights
-
-### 💰 Eficiência de Mídia
-- CPC baixo indica boa otimização de campanha  
-- CPM médio competitivo (R$4,27)  
-- Alta capacidade de escala com baixo custo  
+| Métrica        | Resultado     |
+|----------------|---------------|
+| Alcance        | 105.105       |
+| Impressões     | 153.078       |
+| Cliques        | 1.440         |
+| CTR            | **0,94%**     |
+| CPC médio      | R$ 0,45       |
+| Investimento   | R$ 653,51     |
+| Frequência     | 1,46          |
+| CPM médio      | **R$ 4,27**   |
 
 ---
 
-### ⚠️ Oportunidade de Melhoria
-- CTR abaixo do ideal (0,94%)  
-- Indica necessidade de otimização em:
-  - Criativos
-  - Copy
-  - Segmentação
+### 📈 Principais Insights
+
+#### 💰 Eficiência de mídia
+- CPC baixo  
+- CPM competitivo  
+
+➡️ Campanha com alta capacidade de escala a baixo custo.
 
 ---
 
-### 🌎 Distribuição Geográfica
+#### ⚠️ Oportunidade de melhoria (CTR)
+CTR de 0,94% abaixo do ideal.
+
+➡️ Indica necessidade de otimização em:
+- criativos  
+- copy  
+- segmentação  
+
+---
+
+#### 🌎 Distribuição geográfica
 - Forte concentração em São Paulo  
-- Outras regiões com menor volume e menor performance  
+- Outras regiões com menor eficiência  
+
+➡️ Oportunidade de expansão com ajuste de segmentação.
 
 ---
 
-### ⏰ Comportamento por Horário
-- Pico de cliques no período noturno (21h–23h)  
-- Oportunidade de otimização de entrega por horário  
+#### ⏰ Comportamento por horário
+- Pico de cliques: **21h–23h**
+
+➡️ Ajuste de entrega pode aumentar eficiência.
 
 ---
 
-### 👥 Faixa Etária
-- Maior volume de cliques em público **65+**  
-- Alta aderência ao tema saúde e prevenção  
+#### 👥 Faixa etária
+- Maior volume: **65+**
+
+➡️ Alta aderência ao tema saúde e prevenção.
 
 ---
 
-### 📱 Dispositivo
-- 99% dos acessos via mobile  
-- Necessidade de criativos mobile-first  
+#### 📱 Dispositivo
+- **99% mobile**
+
+➡️ Estratégia deve ser totalmente mobile-first.
 
 ---
 
-## 🧪 Performance de Criativos
+### 🧪 Criativos
 
-### 🔝 Melhor Anúncio
+#### 🔝 Melhor anúncio
 **"A saúde é a nossa maior riqueza..."**
 
 - 772 cliques  
-- CPC: R$0,08  
+- CPC: **R$ 0,08**
 
-📌 Insight:  
-Apelo emocional e linguagem simples geram maior engajamento  
-
----
-
-### 📉 Pontos de Atenção
-- Anúncios com CPC elevado (até R$0,66)  
-- CPM alto em criativos menos relevantes  
-
-📌 Insight:  
-Baixa atratividade impacta diretamente o custo da mídia  
+➡️ Apelo emocional + linguagem simples = maior engajamento.
 
 ---
 
-## 💡 Oportunidades de Otimização
+### 📉 Pontos de atenção
 
-### 🎨 Criativos
+- CPC elevado em alguns criativos (até R$ 0,66)  
+- CPM mais alto em anúncios menos relevantes  
+
+➡️ Baixa atratividade impactando custo da mídia.
+
+---
+
+### 💡 Oportunidades
+
+#### 🎨 Criativos
 - Testes A/B com:
-  - Apelo emocional
-  - Benefício direto
-  - Prova social  
+  - apelo emocional  
+  - benefício direto  
+  - prova social  
 
 ---
 
-### ✍️ Copy
-- Foco em dor + solução  
-- Linguagem mais direta e humanizada  
+#### ✍️ Copy
+- foco em dor + solução  
+- linguagem mais direta e acessível  
 
 ---
 
-### 🎯 Segmentação
-- Separar públicos por faixa etária  
-- Refinar distribuição geográfica  
-- Criar públicos de remarketing  
+#### 🎯 Segmentação
+- separar públicos por faixa etária  
+- refinamento geográfico  
+- criação de públicos de remarketing  
 
 ---
 
-### ⚙️ Estratégia de Campanha
-- Teste de horários de veiculação  
-- Estruturação de funil:
-  - Awareness  
-  - Consideração  
-  - Conversão  
+#### ⚙️ Estratégia
+- ajuste de horários de veiculação  
+- estruturação de funil:
+  - awareness  
+  - consideração  
+  - conversão  
 
 ---
 
-## 🧠 Conclusão
+### 🧠 Conclusão
 
-A campanha apresentou **alta eficiência de distribuição e baixo custo**, validando o potencial de escala.
+A campanha apresentou **alta eficiência de distribuição e baixo custo**, com forte potencial de escala.
 
-No entanto, a **taxa de cliques abaixo do ideal indica necessidade de otimização criativa**, com foco em aumentar a conversão da atenção gerada.
+➡️ O principal ponto de evolução está na **otimização criativa**, para aumentar a taxa de cliques e capturar melhor a atenção gerada.
 
 ---
 
