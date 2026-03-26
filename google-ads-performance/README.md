@@ -10,13 +10,13 @@ Gerar reservas para exames laboratoriais com foco em **intenção de busca e efi
 
 ### 📊 Resultados
 
-| Métrica                | Resultado        |
-|----------------------|------------------|
-| Investimento         | R$ 1.533,04      |
-| Impressões           | 31.370           |
-| Cliques              | 4.712            |
-| CTR                  | **15,02%**       |
-| CPC médio            | R$ 0,33          |
+| 💰 Investimento | 👀 Impressões | 🖱️ Cliques |
+|----------------|--------------|------------|
+| R$ 1.533,04    | 31.370       | 4.712      |
+
+| 📈 CTR | ⚡ CPC médio |
+|--------|-------------|
+| **15,02%** | R$ 0,33 |
 
 ---
 
