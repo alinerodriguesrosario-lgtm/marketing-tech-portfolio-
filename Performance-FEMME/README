@@ -1,6 +1,6 @@
 ## 📊 CRM Performance Optimization | FEMME Laboratório da Mulher
 
-![Visão Geral do Dashboard](./assets/crm_overview.png)
+![Visão Geral do Dashboard](./images/crm_overview.png)
 
 ---
 
@@ -13,7 +13,7 @@ O objetivo foi transformar dados operacionais em inteligência acionável para o
 
 ### 📈 Leitura do dashboard
 
-![Funil de Engajamento](./assets/crm_funil.png)
+![Funil de Engajamento](./images/crm_funil.png)
 
 O funil de engajamento apresenta:
 
@@ -30,7 +30,7 @@ Taxas principais:
 
 ### 📊 Comparação de performance
 
-![Comparação de Taxas](./assets/crm_taxas.png)
+![Comparação de Taxas](./images/crm_taxas.png)
 
 As taxas evidenciam um bom desempenho de abertura, mas queda significativa na etapa de clique, indicando oportunidade de otimização na conversão.
 
