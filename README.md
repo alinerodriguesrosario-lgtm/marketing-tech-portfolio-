@@ -19,6 +19,12 @@ Projetos aplicados em **SEO técnico, mídia paga e estratégia digital**, com f
 
 ## 🚀 Cases
 
+
+### 📊 CRM Performance Optimization | FEMME
+Análise estratégica de CRM com foco em performance e otimização.
+
+👉 [Ver projeto completo](./PROJETOS/Performance-FEMME)
+
 ### 🔍 SEO Técnico — Grupo Cecil
 **Foco:** indexação, arquitetura e rastreabilidade  
 **Resultado:** base estruturada para crescimento orgânico e melhoria de crawling  
