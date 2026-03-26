@@ -1,4 +1,4 @@
-![Capa](./assets/capa-github-aline.png)
+![Capa](./assets/capa.png)
 
 # 👩‍💻 Aline Rosário  
 ### Portfólio de Marketing Tech, Performance e Dados
