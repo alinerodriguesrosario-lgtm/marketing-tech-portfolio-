@@ -1,6 +1,6 @@
 ## 📊 CRM Performance Optimization | FEMME Laboratório da Mulher
 
-![CRM Dashboard](./assets/crm_dashboard.png)
+![Visão Geral do Dashboard](./assets/crm_overview.png)
 
 ---
 
@@ -12,6 +12,8 @@ O objetivo foi transformar dados operacionais em inteligência acionável para o
 ---
 
 ### 📈 Leitura do dashboard
+
+![Funil de Engajamento](./assets/crm_funil.png)
 
 O funil de engajamento apresenta:
 
@@ -26,13 +28,21 @@ Taxas principais:
 
 ---
 
+### 📊 Comparação de performance
+
+![Comparação de Taxas](./assets/crm_taxas.png)
+
+As taxas evidenciam um bom desempenho de abertura, mas queda significativa na etapa de clique, indicando oportunidade de otimização na conversão.
+
+---
+
 ### 🧠 Interpretação estratégica
 
-A taxa de abertura indica boa aderência entre assunto e interesse do público.
+A taxa de abertura (17,98%) indica boa aderência entre assunto e interesse do público, validando a relevância da comunicação inicial.
 
-Por outro lado, o CTOR evidencia uma queda relevante na etapa de clique, apontando oportunidade de otimização na transição entre interesse e ação.
+Por outro lado, o CTOR (3,64%) evidencia uma queda relevante na etapa de clique, apontando oportunidade de otimização na transição entre interesse e ação.
 
-A taxa de não entrega mostra uma base relativamente saudável, mas que ainda demanda manutenção contínua.
+A taxa de não entrega (1,48%) mostra uma base relativamente saudável, mas que ainda demanda manutenção contínua.
 
 ---
 
@@ -41,6 +51,12 @@ A taxa de não entrega mostra uma base relativamente saudável, mas que ainda de
 Alta abertura + baixo clique = desalinhamento entre expectativa e entrega  
 
 → O usuário se interessa pelo assunto, mas não encontra motivação suficiente para avançar
+
+---
+
+### 📌 Leitura de negócio
+
+Esse padrão indica que o gargalo não está na atração (abertura), mas na conversão (clique), deslocando o foco da otimização para conteúdo, CTA e estrutura da mensagem.
 
 ---
 
@@ -69,6 +85,12 @@ Alta abertura + baixo clique = desalinhamento entre expectativa e entrega
 - maior eficiência das campanhas  
 - melhor aproveitamento da base  
 - evolução da estratégia de CRM para modelo mais orientado a dados  
+
+---
+
+### 📋 Dados consolidados
+
+![Tabela de métricas](./assets/crm_tabela.png)
 
 ---
 
