@@ -1,149 +1,139 @@
-# 🔎 Google Ads — Campanhas de Performance  
-**Cliente:** São Lucas (Serviços laboratoriais)
+## 🔎 Google Ads — Performance de Conversão  
+**Cliente:** São Lucas (Serviços Laboratoriais)
 
 ---
 
-## 🎯 Objetivo
-Gerar reservas para exames laboratoriais, com foco em intenção de busca e eficiência de aquisição.
+### 🎯 Objetivo
+Gerar reservas para exames laboratoriais com foco em **intenção de busca e eficiência de aquisição**.
 
 ---
 
-## 📊 Resultados Gerais
+### 📊 Resultados
 
-- **Investimento total:** R$ 1.533,04  
-- **Impressões:** 31.370  
-- **Cliques:** 4.712  
-- **CTR:** 15,02%  
-- **CPC médio:** R$ 0,33  
-
----
-
-## 💰 Performance de Conversão
-
-- **Conversões:** 1.490  
-- **Taxa de conversão:** 31,63%  
-- **Custo por conversão:** R$1,03  
-- **Valor das ofertas:** R$6.479,19  
-- **ROAS:** 4,23  
+| Métrica                | Resultado        |
+|----------------------|------------------|
+| Investimento         | R$ 1.533,04      |
+| Impressões           | 31.370           |
+| Cliques              | 4.712            |
+| CTR                  | **15,02%**       |
+| CPC médio            | R$ 0,33          |
 
 ---
 
-## 📈 Principais Insights
+### 💰 Conversão
 
-### 🔍 Intenção de Busca Bem Trabalhada
-- CTR elevado (15%) indica forte alinhamento entre:
-  - Palavra-chave  
-  - Anúncio  
-  - Intenção do usuário  
-
-📌 Tradução:  
-O anúncio aparece exatamente quando uma pessoa já quer resolver o problema.
+| Métrica                | Resultado        |
+|----------------------|------------------|
+| Conversões           | 1.490            |
+| Taxa de conversão    | **31,63%**       |
+| Custo por conversão  | **R$ 1,03**      |
+| Receita gerada       | R$ 6.479,19      |
+| ROAS                 | **4,23**         |
 
 ---
 
-### 🚀 Alta Eficiência de Conversão
+### 📈 Principais Insights
+
+#### 🔍 Intenção de busca bem capturada
+CTR de 15% indica forte alinhamento entre:
+- palavra-chave  
+- anúncio  
+- momento do usuário  
+
+➡️ O anúncio aparece quando a demanda já está formada.
+
+---
+
+#### 🚀 Alta eficiência de conversão
 - Taxa de conversão acima de 30%  
-- Custo por conversão extremamente baixo (R$1,03)
+- Custo por conversão extremamente baixo  
 
-📌 Insight:  
-Estrutura de campanha + landing page bem homologadas
-
----
-
-### 💡 Escala com Rentabilidade
-- ROAS 4,23 → retorno consistente  
-- Potencial claro de aumento de investimento  
+➡️ Estrutura de campanha + landing page bem alinhadas.
 
 ---
 
-## 🔑 Desempenho de Palavras-chave
+#### 💡 Escala com rentabilidade
+ROAS de 4,23 indica operação saudável e escalável.
 
-### permissões:
-
-- **"exame imagem e laboratório"**
-  - Alto volume de cliques  
-  - Forte geração de reservas  
-
-- **Termos de marca ("laboratório são lucas")**
-  - Alta taxa de conversão  
-  - CPC baixo  
-
-📌 Insight:
-- Mix eficiente entre **palavras genéricas + marca**
+➡️ Existe espaço para aumento de investimento mantendo eficiência.
 
 ---
 
-## 📊Estrutura de Campanhas
+### 🔑 Palavras-chave
 
-### Campanha de maior desempenho:
-**Vendas – São Lucas**
+- **Genéricas:**  
+  "exame imagem e laboratório" → alto volume + conversão
+
+- **Marca:**  
+  "laboratório são lucas" → alta conversão + CPC baixo  
+
+➡️ Mix equilibrado entre captura de demanda e fundo de funil.
+
+---
+
+### 📊 Estrutura de Campanhas
+
+**Campanha destaque:**  
+Vendas — São Lucas  
 
 - CTR: 23,41%  
-- Taxa de conversão: 41,42%  
-- Custo de conversão: R$ 0,66  
+- Conversão: 41,42%  
+- Custo por conversão: R$ 0,66  
 
-📌 Insight:  
-Campanha altamente otimizada para fundo de funil
-
----
-
-### Segmentação por dispositivo
-
-- Maioria das reservas via **smartphone (~88%)**
-
-📌 Insight:  
-Experiência mobile é fator crítico para conversão
+➡️ Forte performance em fundo de funil.
 
 ---
 
-##⚠️Pontos de Atenção
+### 📱 Comportamento por dispositivo
 
-- 🇺 campanhas com:
-  - CTR menor (7%)  
-  - Custo por conversão mais alto  
+- ~88% das conversões via **mobile**
 
-📌 Indica:
-- Necessidade de refinamento de:
-  - Palavras-chave  
-  - Segmentação  
-  - Copiar doLi  
+➡️ Experiência mobile é determinante para resultado.
 
 ---
 
-## 💡 Oportunidades de Otimização
+### ⚠️ Pontos de atenção
 
-### 🔧 Estrutura
-- Separar campanhas por intenção:
-  - Pesquisa genérica  
-  - Marca  
-  - Serviços específicos  
+- Campanhas com CTR ~7%  
+- Custo por conversão mais alto  
 
----
-
-### 🎯 Palavras-chave
-- Expandir termos de alta conversão  
-- Negativar termos irrelevantes  
+➡️ Indicam necessidade de ajuste em:
+- palavras-chave  
+- segmentação  
+- copy de anúncios  
 
 ---
 
-### 💰 Lanças
-- Ajuste de bids para:
-  - Palavras mais rentáveis  
-  - Horários de maior conversão  
+### 💡 Oportunidades
 
----
+**Estrutura**
+- Separação por intenção (genérico / marca / serviço)
 
-### 📱 Experiência
-- Otimização contínua para celular  
+**Palavras-chave**
+- Expansão de termos performáticos  
+- Negativação de termos irrelevantes  
+
+**Lances**
+- Ajuste por horário e performance  
+- Priorização de termos mais rentáveis  
+
+**Experiência**
+- Otimização contínua do mobile  
 - Redução de fricção na conversão  
 
 ---
 
-## 🧠 Conclusão
+### 🧠 Conclusão
 
-A estratégia de Google Ads apresentou **alto nível de eficiência e maturidade**, com forte alinhamento entre intenção de busca e conversão.
+A operação apresenta **alto nível de eficiência**, com:
 
-Os resultados indicam uma operação estruturada, com **baixo custo por aquisição e alto retorno**, além de potencial claro de escalada com manutenção de rentabilidade.
+- forte alinhamento entre intenção e conversão  
+- baixo custo de aquisição  
+- retorno consistente  
+
+➡️ Estrutura pronta para **escala com manutenção de rentabilidade**.
+
+---
 
 ---
 
