@@ -1,4 +1,4 @@
-![Capa](./assets/capa.png)
+![Capa](./images/capa-.png)
 
 # 👩‍💻 Aline Rosário  
 ### Portfólio de Marketing Tech, Performance e Dados
