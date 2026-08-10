@@ -1,1 +1,42 @@
+# Auditoria e Correção de Tracking GTM para Milvus
 
+## Visão geral
+
+Projeto de auditoria, correção e governança de tracking para o ecossistema digital da Milvus, com foco em Google Tag Manager, GA4, RD Station, landing pages, formulários, UTMs e CRM.
+
+O objetivo foi melhorar a confiabilidade da mensuração digital, organizar eventos de conversão e apoiar uma leitura mais clara da jornada do lead.
+
+## Contexto
+
+A estrutura de tracking da empresa era funcional, mas possuía sinais distribuídos entre diferentes ferramentas, páginas, formulários e plataformas de mídia.
+
+Esse cenário dificultava a análise completa da jornada do lead, desde a campanha até o registro nas ferramentas de marketing, analytics e CRM.
+
+## Meu papel
+
+Atuei na análise técnica e operacional do tracking, conectando visão de Marketing Ops, MarTech e mensuração de performance.
+
+Principais responsabilidades:
+
+- Auditoria da estrutura de Google Tag Manager.
+- Mapeamento de tags, acionadores, variáveis e eventos de conversão.
+- Análise da integração entre GTM, GA4, RD Station, landing pages e CRM.
+- Identificação de riscos de perda, duplicidade ou inconsistência de dados.
+- Organização de parâmetros de campanha, UTMs e campos ocultos.
+- Apoio à padronização de metadados para landing pages.
+- Criação de checklist de validação ponta a ponta da jornada do lead.
+
+## Principais entregas
+
+- Diagnóstico da estrutura de tracking existente.
+- Validação da instalação do GTM em páginas estratégicas.
+- Revisão de eventos de conversão e parâmetros enviados ao GA4.
+- Organização de UTMs e metadados de landing pages.
+- Apoio à integração entre formulários, RD Station e CRM.
+- Criação de checklist para validar a jornada completa do lead.
+- Recomendações para reduzir duplicidade de conversões e melhorar a governança dos dados.
+
+## Jornada analisada
+
+```text
+Campanha -> Landing page -> GTM -> Formulário -> RD Station -> CRM -> GA4
