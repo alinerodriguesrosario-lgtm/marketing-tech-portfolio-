@@ -1,4 +1,5 @@
-# Auditoria e Reestruturação de Tracking Digital  
+# Auditoria e Reestruturação de Tracking Digital
+
 ## GTM, GA4, RD Station e CRM
 
 Projeto de auditoria e reestruturação da arquitetura de tracking digital para reduzir duplicidade de conversões, minimizar perda de dados e garantir rastreabilidade da jornada do lead, desde a origem da campanha até o registro no CRM.
@@ -24,3 +25,49 @@ flowchart LR
     D --> E[RD Station]
     E --> F[CRM]
     F --> G[GA4]
+```
+
+## Meu Papel
+
+Atuei na análise técnica e operacional do tracking, conectando visão de **Marketing Ops**, **MarTech** e **mensuração de performance**.
+
+Meu trabalho envolveu fazer a ponte entre marketing, dados e tecnologia para revisar a confiabilidade dos eventos, parâmetros, integrações e registros gerados ao longo da jornada do lead.
+
+## O Que Foi Feito
+
+- Auditoria completa da estrutura do Google Tag Manager, incluindo tags, acionadores e variáveis.
+- Mapeamento dos eventos de conversão configurados e comparação com os eventos que deveriam ser mensurados.
+- Análise da integração entre GTM, GA4, RD Station, landing pages e CRM.
+- Identificação de riscos de perda, duplicidade ou inconsistência de dados.
+- Organização de UTMs, parâmetros de campanha e campos ocultos de formulário.
+- Apoio à padronização de metadados nas landing pages.
+- Criação de checklist de validação ponta a ponta da jornada do lead.
+
+## Entregáveis
+
+- Diagnóstico da estrutura de tracking existente.
+- Mapa de gaps, riscos e pontos de inconsistência.
+- Validação da instalação do GTM nas páginas estratégicas.
+- Revisão dos eventos de conversão enviados ao GA4.
+- Padronização de UTMs e metadados de landing pages.
+- Apoio à integração entre formulários, RD Station e CRM.
+- Checklist reutilizável para validação de novas campanhas.
+- Recomendações de governança para manter a confiabilidade dos dados no longo prazo.
+
+## Desafio Técnico
+
+Durante a auditoria, foram identificados riscos de duplicidade no disparo de eventos de conversão, causados por lógicas distribuídas entre GTM, formulários e ferramentas de automação.
+
+A correção envolveu revisar as condições de disparo, consolidar a lógica de mensuração e definir critérios mais claros para o que deveria ser considerado uma conversão válida.
+
+## Resultados
+
+- Maior confiabilidade na leitura de leads gerados por campanha.
+- Redução de riscos de conversões duplicadas no GA4.
+- Melhor rastreabilidade entre origem da campanha, formulário, RD Station e CRM.
+- Processo de validação reutilizável para novas campanhas.
+- Estrutura mais organizada para análise de performance e tomada de decisão.
+
+---
+
+*Case baseado em projeto real; dados sensíveis omitidos ou generalizados por confidencialidade.*
