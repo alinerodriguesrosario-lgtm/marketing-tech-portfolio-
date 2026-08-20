@@ -1,108 +1,53 @@
 ### 🧩 Arquitetura de Marketing, SEO e Tracking | Milvus
 
-**Foco:** estruturação de páginas estratégicas, tracking, SEO técnico, RD Station e jornada comercial para um B2B SaaS  
-**Resultado:** base organizada para conectar origem, comportamento, intenção, conversão e qualificação de leads
+**Foco:** estruturação de páginas estratégicas, SEO técnico, tracking e jornada comercial para um B2B SaaS  
+**Resultado:** proposta de base mais organizada para conectar origem, comportamento, intenção, conversão e qualificação de leads
 
-Atuei na organização da máquina de marketing da Milvus, conectando site, SEO, páginas de conversão, GA4, Google Tag Manager, Google Ads e RD Station.
+Atuei na análise e organização da estrutura digital da Milvus, conectando site, páginas de conversão, SEO, mídia paga, analytics, automação de marketing e jornada comercial.
 
 O trabalho envolveu:
 
-- diagnóstico da estrutura de páginas e conversão;
-- auditoria técnica de tracking;
-- identificação de duplicidades em GA4 e Google Ads;
-- revisão de eventos de lead;
-- proposta de taxonomia de eventos;
-- estruturação de campos ocultos para RD Station;
+- diagnóstico da jornada digital e das páginas de conversão;
+- revisão da arquitetura de mensuração;
+- mapeamento de eventos e conversões;
+- proposta de taxonomia para eventos comerciais;
 - recomendações para qualificação de leads;
-- criação de páginas estratégicas para SEO e fundo de funil;
-- organização de páginas de confiança, comparativos, recursos, preços e cases.
+- organização de campos e parâmetros para leitura de origem, intenção e interesse;
+- estruturação de páginas estratégicas para SEO e fundo de funil;
+- recomendações para integração entre marketing, automação e vendas.
 
-#### Campos e parâmetros recomendados
+#### Frentes trabalhadas
 
-Propus uma estrutura para conectar origem, comportamento, intenção e qualificação do lead.
+- Arquitetura de páginas institucionais e comerciais
+- SEO técnico e organização por intenção de busca
+- Tracking e mensuração de eventos
+- Qualificação de leads
+- Integração entre analytics, mídia paga e automação de marketing
+- Páginas de confiança, comparativos, recursos, preços e cases
 
-**Origem e campanha:**
+#### O que a estrutura permitia medir
 
-- `utm_source`
-- `utm_medium`
-- `utm_campaign`
-- `utm_content`
-- `utm_term`
-- `first_landing_page`
-- `last_landing_page`
-- `conversion_page`
-- `page_path`
-- `page_title`
-- `page_type`
+A proposta buscava ajudar o time a responder perguntas como:
 
-**Conversão e intenção:**
+- qual origem trouxe o lead;
+- qual página iniciou a jornada;
+- qual página converteu;
+- qual CTA gerou a ação;
+- qual solução despertou interesse;
+- qual era o estágio do funil;
+- se a conversão veio de demo, teste, conteúdo, WhatsApp ou página comercial;
+- quais canais apoiavam leads com maior intenção;
+- quais páginas deveriam apoiar SEO, mídia e vendas.
 
-- `conversion_type`
-- `funnel_stage`
-- `cta_clicked`
-- `cta_text`
-- `cta_location`
-- `destination_url`
-- `form_id`
-- `form_type`
-- `solution_interest`
-- `offer_type`
-- `content_cluster`
-- `whatsapp_context`
+#### Cuidados aplicados
 
-**Qualificação comercial:**
+Por envolver dados, tracking e estratégia comercial, o projeto exigiu atenção a:
 
-- `company_size`
-- `segment`
-- `cargo`
-- `empresa`
-- `tamanho_da_equipe`
-- `principal_desafio`
-- `interesse_em_solucao`
-- `volume_de_atendimento`
-- `uso_de_suporte_ti_ou_whatsapp`
-
-**Conteúdos e eventos específicos:**
-
-- `webinar_id`
-- `topic`
-- `material_id`
-- `pricing_plan`
-- `comparison_type`
-- `resource_category`
-
-#### Organização no RD Station
-
-Também propus uma lógica de tags para segmentação, nutrição, lead scoring e priorização comercial.
-
-**Tags por conversão:**
-
-- `lead_demo`
-- `lead_trial`
-- `lead_webinar`
-- `lead_newsletter`
-- `lead_whatsapp`
-
-**Tags por interesse:**
-
-- `interesse_helpdesk`
-- `interesse_whatsapp`
-- `interesse_itsm`
-- `interesse_omnichannel`
-- `interesse_precos`
-
-**Tags por intenção:**
-
-- `alta_intencao`
-- `meio_funil`
-- `topo_funil`
-
-**Tags por origem:**
-
-- `origem_organico`
-- `origem_paid_search`
-- `origem_paid_social`
-- `origem_email`
-- `origem_referral`
+- governança de eventos;
+- consistência de nomenclatura;
+- separação entre microconversões e conversões comerciais;
+- preservação de dados de campanha;
+- validação antes de alterações em tags ou integrações;
+- alinhamento entre marketing, vendas e automação.
 
 ➡️ [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/blob/Main/PROJETOS/milvus-marketing-tech-tracking-seo)
