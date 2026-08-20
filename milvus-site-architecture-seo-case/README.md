@@ -142,14 +142,14 @@ A solução foi dividir a arquitetura em páginas principais, cada uma com objet
 | Página | Link/rota | Objetivo | Resultado esperado |
 | --- | --- | --- | --- |
 | Sobre a Milvus | https://milvus.com.br/sobre-nos | Reposicionar a página institucional como espaço de marca, história, cultura e credibilidade. | Página mais clara, com menos sobrecarga de temas técnicos e melhor direcionamento para páginas de apoio. |
-| Central de Confiança | `/central-de-confianca` | Concentrar informações sobre segurança, privacidade, LGPD, governança e processo relacionado à ISO/IEC 27001. | Reduzir fricção em processos comerciais, compras, jurídico e segurança da informação. |
-| Help Desk com WhatsApp | `/help-desk-whatsapp` | Capturar demanda orgânica e comercial de usuários que buscam atendimento via WhatsApp integrado a chamados. | Aumentar potencial de SEO e conversão em uma dor específica e altamente comercial. |
-| Cases Milvus | `/cases` | Centralizar provas sociais, cases, depoimentos, vídeos, ebooks e avaliações externas validadas. | Transformar clientes e histórias reais em ativos de autoridade, conversão e suporte a vendas. |
-| Case Cyrela | `/cases/cyrela` | Apresentar um caso de uso com foco em atendimento a corretores, WhatsApp, chamados e redução de TMA/TME. | Apoiar páginas comerciais com prova real de uso e resultado operacional. |
-| Case Umbrella | `/cases/umbrella` | Explorar um case com foco em centralização, rastreabilidade, LGPD, governança e redução de ferramentas. | Conectar prova social a temas de confiança, segurança e Service Desk. |
-| Preços | `/precos` | Facilitar a avaliação comercial com planos, critérios de escolha, perguntas frequentes e CTA de proposta. | Melhorar conversão de usuários em fase de comparação e reduzir dúvidas recorrentes do funil. |
-| Comparativos | `/comparativos` | Apoiar usuários que estão comparando a Milvus com alternativas, planilhas, ferramentas legadas ou concorrentes. | Capturar buscas de decisão e fortalecer argumentos comerciais de diferenciação. |
-| Recursos | `/recursos` | Organizar funcionalidades, módulos e capacidades da plataforma em uma central clara e navegável. | Melhorar descoberta de produto, links internos e cauda longa de SEO. |
+| Central de Confiança | https://milvus.com.br/central-de-confianca | Concentrar informações sobre segurança, privacidade, LGPD, governança e processo relacionado à ISO/IEC 27001. | Reduzir fricção em processos comerciais, compras, jurídico e segurança da informação. |
+| Help Desk com WhatsApp | https://milvus.com.br/help-desk-whatsapp | Capturar demanda orgânica e comercial de usuários que buscam atendimento via WhatsApp integrado a chamados. | Aumentar potencial de SEO e conversão em uma dor específica e altamente comercial. |
+| Cases Milvus | https://milvus.com.br/cases | Centralizar provas sociais, cases, depoimentos, vídeos, ebooks e avaliações externas validadas. | Transformar clientes e histórias reais em ativos de autoridade, conversão e suporte a vendas. |
+| Case Cyrela | https://milvus.com.br/cases/cyrela | Apresentar um caso de uso com foco em atendimento a corretores, WhatsApp, chamados e redução de TMA/TME. | Apoiar páginas comerciais com prova real de uso e resultado operacional. |
+| Case Umbrella | https://milvus.com.br/cases/umbrella | Explorar um case com foco em centralização, rastreabilidade, LGPD, governança e redução de ferramentas. | Conectar prova social a temas de confiança, segurança e Service Desk. |
+| Preços | https://milvus.com.br/precos| Facilitar a avaliação comercial com planos, critérios de escolha, perguntas frequentes e CTA de proposta. | Melhorar conversão de usuários em fase de comparação e reduzir dúvidas recorrentes do funil. |
+| Comparativos | https://milvus.com.br/comparativo | Apoiar usuários que estão comparando a Milvus com alternativas, planilhas, ferramentas legadas ou concorrentes. | Capturar buscas de decisão e fortalecer argumentos comerciais de diferenciação. |
+| Recursos | https://milvus.com.br/recursos | Organizar funcionalidades, módulos e capacidades da plataforma em uma central clara e navegável. | Melhorar descoberta de produto, links internos e cauda longa de SEO. |
 
 ## Arquitetura Recomendada
 
