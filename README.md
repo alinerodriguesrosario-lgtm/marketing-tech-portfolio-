@@ -14,6 +14,13 @@ SEO Técnico • Arquitetura de Informação • Estratégia Digital • Google 
 
 ## 🚀 Cases
 
+
+### 📊 Auditoria de Tracking | Milvus
+
+**Foco:** revisão da mensuração entre GTM, GA4, formulários, RD Station e CRM.
+
+➡️ [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/case-portfolio-auditoria-correcao-tracking-gtm-milvus)
+
 ### 🧭 Arquitetura de Páginas e SEO Técnico | Milvus
 
 **Foco:** reestruturação de páginas institucionais, comerciais, comparativas, de segurança e recursos para um site B2B SaaS  
