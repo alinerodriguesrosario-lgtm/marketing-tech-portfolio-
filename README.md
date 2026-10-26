@@ -37,7 +37,7 @@ Páginas idealizadas:
 - Recursos
 
 ➡️ [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/milvus-site-architecture-seo-case)
----
+
 
 ### 📊 CRM Performance Optimization | FEMME
 
@@ -45,7 +45,7 @@ Páginas idealizadas:
 **Resultado:** leitura de dados para apoiar decisões de relacionamento, ativação e melhoria de performance
 
 👉 [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/femme-crm-performance)
----
+
 
 ### 🔍 SEO Técnico | Grupo Cecil
 
