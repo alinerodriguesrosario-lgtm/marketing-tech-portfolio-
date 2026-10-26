@@ -29,8 +29,7 @@ Páginas idealizadas:
 - Comparativos
 - Recursos
 
-➡️ [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/blob/Main/PROJETOS/milvus-arquitetura-paginas)
-
+➡️ [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/milvus-site-architecture-seo-case)
 ---
 
 ### 📊 CRM Performance Optimization | FEMME
