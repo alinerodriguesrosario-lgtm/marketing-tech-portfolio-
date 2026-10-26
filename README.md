@@ -22,9 +22,8 @@ SEO Técnico • Arquitetura de Informação • Marketing Ops • Estratégia D
 
 **Status:** projeto em evolução, com etapas validadas e pendências documentadas.
 
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/bigquery-sql-apps-script-milvus)
+➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/BigQuery%2C%20SQL%20e%20Apps%20Script%20para%20Marketing%20Ops%20%7C%20Milvus)
 
----
 
 ### 📊 Auditoria de Tracking | Milvus
 
