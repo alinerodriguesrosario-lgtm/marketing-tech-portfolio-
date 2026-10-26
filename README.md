@@ -37,8 +37,7 @@ Páginas idealizadas:
 **Foco:** análise estratégica de CRM com foco em performance e otimização  
 **Resultado:** leitura de dados para apoiar decisões de relacionamento, ativação e melhoria de performance
 
-👉 [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/blob/Main/PROJETOS/femme-crm-performance)
-
+👉 [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/femme-crm-performance)
 ---
 
 ### 🔍 SEO Técnico | Grupo Cecil
