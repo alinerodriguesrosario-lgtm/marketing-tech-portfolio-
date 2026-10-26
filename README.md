@@ -54,7 +54,7 @@ Páginas idealizadas:
 
 ---
 
-### 📊 Análise de Performance de CRM | FEMME
+### 📊 Análise de Performance de CRM | FEMME LABORATÓRIO DA MULHER
 
 **Foco:** análise estratégica de campanhas de CRM e identificação de oportunidades de otimização.
 
