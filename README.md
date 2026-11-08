@@ -25,7 +25,7 @@ Marketing Ops • Growth Ops • MarTech • Marketing Intelligence • SEO Téc
 
 **Status:** projeto em evolução, com etapas validadas e pendências documentadas.
 
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/BigQuery%2C%20SQL%20e%20Apps%20Script%20para%20Marketing%20Ops%20%7C%20Milvus)
+➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/BigQuery%2C%20SQL%20e%20Apps%20Script%20para%20Marketing%20Ops%20%7C%20Milvus/images)
 
 ---
 
@@ -73,7 +73,7 @@ Marketing Ops • Growth Ops • MarTech • Marketing Intelligence • SEO Téc
 
 **Tecnologias:** SEO Técnico • Arquitetura de Informação • UX • Estratégia Digital
 
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/milvus-site-architecture-seo-case)
+➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/Arquitetura-de-marketing-SEO-tracking-Milvus)
 
 ---
 
