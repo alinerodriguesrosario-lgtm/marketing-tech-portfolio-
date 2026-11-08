@@ -1,4 +1,4 @@
-# 📱 Meta Ads — Análise de distribuição e tráfego | São Lucas
+### Análise de Meta Ads e Google Ads | São Lucas e Seu Laboratório
 
 **Foco:** alcance, frequência, cliques no link e custos das campanhas de Meta Ads.
 
