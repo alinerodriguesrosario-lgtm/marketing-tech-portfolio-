@@ -1,18 +1,16 @@
-# 📊 Análise de Meta Ads e Google Ads | São Lucas e Seu Laboratório
+# 📱 Meta Ads — Análise de distribuição e tráfego | São Lucas
 
-**Foco:** leitura conjunta de distribuição, tráfego, custos e conversões registradas em campanhas de serviços laboratoriais.
+**Foco:** alcance, frequência, cliques no link e custos das campanhas de Meta Ads.
 
-**Entrega:** comparação dos indicadores disponíveis e recomendações para segmentação, criativos, campanhas e validação da mensuração.
+**Entrega:** leitura dos relatórios disponíveis e recomendações de investigação de públicos, criativos e distribuição.
 
 ## Contexto e objetivo
 
-O trabalho reuniu relatórios de Meta Ads e Google Ads para analisar diferentes aspectos da aquisição e orientar oportunidades de investigação e testes.
+O case apresenta uma análise de campanhas de serviços laboratoriais com objetivo de distribuição e geração de interesse. O material reúne indicadores de entrega e tráfego; a avaliação de contatos e resultados comerciais exige dados complementares.
 
-A leitura conjunta permite observar o desempenho registrado em cada plataforma. Os materiais apresentados não conciliam a jornada de uma mesma pessoa entre os canais até o resultado comercial.
+As capturas representam um recorte histórico. O período completo e os filtros devem ser confirmados na fonte antes de comparações com outras campanhas.
 
-As capturas representam recortes históricos. Períodos, filtros e definições devem ser confirmados na fonte antes de comparações ou consolidações entre plataformas.
-
-## Meta Ads: distribuição e tráfego
+## Indicadores apresentados
 
 | Indicador | Valor exibido no relatório |
 | --- | ---: |
@@ -25,118 +23,66 @@ As capturas representam recortes históricos. Períodos, filtros e definições 
 | Frequência | 1,46 |
 | CPM médio | R$ 4,27 |
 
-![Resumo de alcance, impressões, cliques no link e custos do Meta Ads.](./images/sao-lucas-meta-ads.png)
+![Resumo de distribuição e cliques no link no Meta Ads.](./images/sao-lucas-meta-ads.png)
 
-*Figura 1 — Indicadores de distribuição e tráfego do Meta Ads no recorte apresentado.*
+*Figura 1 — Consolidado de alcance, impressões, cliques no link e custos do Meta Ads.*
 
-Os resultados descrevem a entrega e as interações registradas. A avaliação do CTR de 0,94% depende de objetivo, posicionamento, público, formato e histórico comparável; ele não é classificado como abaixo de um padrão universal.
+## Leitura dos dados
 
-O alcance não comprova reconhecimento de marca medido, e o custo por clique não informa, isoladamente, qualidade dos contatos ou resultado comercial.
+O relatório registra 153.078 impressões, alcance de 105.105 e 1.440 cliques no link no recorte disponível. Esses valores descrevem a distribuição e a resposta registrada nos anúncios.
 
-## Google Ads: demanda de pesquisa e conversões registradas
+A frequência de 1,46 é compatível com a razão entre impressões e alcance. O CTR de 0,94% é compatível com a razão entre cliques no link e impressões. A análise de adequação desses indicadores depende do objetivo, público, posicionamento, formato e histórico comparável.
 
-| Indicador | Valor exibido no relatório |
-| --- | ---: |
-| Investimento | R$ 1.533,04 |
-| Impressões | 31.370 |
-| Cliques | 4.712 |
-| CTR | 15,02% |
-| CPC médio | R$ 0,33 |
-| Conversões registradas | 1.490,52 |
-| Taxa de conversão | 31,63% |
-| Custo por conversão registrada | R$ 1,03 |
-| Valor das conversões | R$ 6.479,19 |
-| Relação valor das conversões / custo | 4,23 |
+O alcance não equivale a reconhecimento de marca medido, e os cliques no link não representam automaticamente visitas concluídas, contatos ou vendas. O CPC e o CPM ajudam a analisar o custo da distribuição, mas a qualidade das interações deve ser investigada na jornada seguinte.
 
-![Resumo de tráfego, custo e conversões registradas no Google Ads.](./images/sao-lucas-google-ads-custo.png)
+## Distribuição geográfica
 
-*Figura 2 — Consolidado do Google Ads, com contagem fracionada de conversões e valor atribuído às conversões.*
+![Distribuição do alcance por região.](./images/sao-lucas-meta-ads-regiao-de-alcance.png)
 
-A contagem de 1.490,52 foi mantida como aparece na captura. Não deve ser interpretada como quantidade de pessoas únicas, reservas confirmadas ou exames realizados sem verificar as ações de conversão e conciliar os registros com a operação comercial.
+*Figura 2 — Recorte geográfico para comparação com as regiões atendidas pela operação.*
 
-O quadro informa **Valor das conversões** de R$ 6.479,19. A razão entre esse valor e o investimento é aproximadamente 4,23, rotulada como ROAS no material original. A confirmação de receita recebida depende de verificar como os valores foram definidos e sua correspondência com vendas. A captura não demonstra lucro ou manutenção da rentabilidade após ampliação do investimento.
+A análise geográfica deve relacionar a entrega à área efetivamente atendida. Volume de alcance por região, isoladamente, não determina a qualidade dos contatos nem justifica expansão de cobertura.
 
-## Leitura conjunta dos canais
-
-A análise permite formular hipóteses sobre papéis complementares: Meta Ads pode apoiar distribuição e descoberta, enquanto campanhas de pesquisa podem atender demandas expressas nas consultas.
-
-Neste case, essas possibilidades orientam a investigação. Os relatórios não comprovam que uma exposição no Meta causou uma conversão posterior no Google, nem apresentam atribuição integrada até a venda.
-
-Também não é adequado usar a diferença entre os CTRs de 0,94% e 15,02% como prova de superioridade de um canal: objetivos, formatos, contextos de exibição e definições das métricas precisam ser considerados.
-
-## Recomendações
-
-- Confirmar períodos e filtros dos relatórios de cada plataforma.
-- Documentar quais ações entram nas conversões e como os valores são atribuídos.
-- Relacionar os contatos e agendamentos aos registros comerciais, quando disponíveis.
-- Comparar criativos dentro de objetivos e públicos equivalentes.
-- Investigar localização, horários e dispositivos com métricas de qualidade, além de volume.
-- Separar consultas de marca, termos genéricos e serviços no Google Ads.
-- Planejar testes com hipóteses, métricas e critérios de avaliação definidos.
-- Avaliar alterações de orçamento após validar a qualidade das conversões e a capacidade operacional.
-
-## Evidências complementares
-
-### Distribuição geográfica no Meta Ads
-
-![Alcance por região no Meta Ads.](./images/sao-lucas-meta-ads-regiao-de-alcance.png)
-
-*Figura 3 — Distribuição geográfica para investigação da aderência à área atendida.*
-
-### Cliques no link por horário
+## Cliques por horário
 
 ![Distribuição dos cliques no link por horário.](./images/sao-lucas-meta-ads-cliques-no-link.png)
 
-*Figura 4 — Recorte de horários, que deve ser analisado em conjunto com investimento e qualidade dos contatos.*
+*Figura 3 — Recorte de horários para orientar hipóteses de análise da distribuição.*
 
-### Criativos do Meta Ads
+Diferenças de volume entre horários precisam ser avaliadas em conjunto com investimento, disponibilidade de atendimento e resultados posteriores ao clique.
+
+## Criativos e campanhas
 
 ![Anúncios apresentados no relatório de Meta Ads.](./images/sao-lucas-meta-ads-anuncios-em-destaque.png)
 
-*Figura 5 — Criativos como insumo para hipóteses de teste; o recorte não isola o efeito do texto ou da imagem.*
+*Figura 4 — Recorte de anúncios para investigação de mensagens, formatos e chamadas para ação.*
 
-### Evolução dos indicadores no Google Ads
+![Indicadores das campanhas apresentadas.](./images/sao-lucas-meta-ads-campanhas-em-destaque.png)
 
-![Séries de cliques, CTR, custo e CPC no Google Ads.](./images/sao-lucas-google-ads-clique-ctr-custo-cpc.png)
+*Figura 5 — Organização dos resultados por campanha no recorte disponível.*
 
-*Figura 6 — Evolução dos indicadores de tráfego e custo do recorte disponível.*
+Os criativos podem orientar hipóteses para testes, como mensagem, benefício e CTA. A comparação deve considerar públicos, objetivos, orçamento e distribuição equivalentes; os relatórios não isolam o efeito de um elemento criativo.
 
-### Campanhas e grupos de anúncios
+## Recomendações
 
-![Indicadores por campanha no Google Ads.](./images/sao-lucas-google-ads-todas-campanhas.png)
-
-*Figura 7 — Comparação por campanha, com atenção ao mix de intenção e às ações de conversão consideradas.*
-
-![Indicadores por grupo de anúncios.](./images/sao-lucas-google-ads-grupo-de-anuncios.png)
-
-*Figura 8 — Recorte por grupo de anúncios para orientar investigação da estrutura.*
-
-### Palavras-chave e dispositivos
-
-![Indicadores por palavra-chave.](./images/sao-lucas-google-ads-resumo-palavras-chave-pesquisa.png)
-
-*Figura 9 — Palavras-chave como apoio à análise de consultas, marca e serviços.*
-
-![Custo, conversões registradas e cliques por dispositivo.](./images/sao-lucas-google-ads-custo-conversao-cliques-dispositivos.png)
-
-*Figura 10 — Distribuição por dispositivo para orientar a análise da experiência de navegação.*
+- Confirmar período, filtros, objetivos e definições das métricas.
+- Comparar criativos em condições equivalentes e formular testes com hipótese e critério de avaliação.
+- Relacionar os cliques às visitas efetivas e às ações relevantes na página de destino.
+- Investigar localização e horários em conjunto com a qualidade dos contatos.
+- Avaliar a experiência mobile, incluindo carregamento, leitura e acesso ao próximo passo.
+- Utilizar histórico comparável e resultados posteriores ao clique para orientar alterações de distribuição e investimento.
 
 ## O que o case demonstra
 
-- Leitura de indicadores de plataformas com objetivos e contextos distintos.
-- Organização de hipóteses e recomendações para mídia paga.
-- Atenção às definições de conversão e valor.
-- Distinção entre resultados de mídia e resultados comerciais confirmados.
+- Leitura de indicadores de distribuição e tráfego.
+- Organização de recortes de campanha para investigação.
+- Formulação de hipóteses e recomendações de teste.
+- Distinção entre interações de mídia e resultados comerciais.
 
 ## Limites e próximos passos
 
-A validação deve incluir período, configuração das conversões, origem dos valores e conciliação com os registros comerciais. Não foram demonstrados efeitos posteriores das recomendações sobre receita, qualidade dos contatos ou rentabilidade.
+O material não concilia os cliques com contatos ou vendas e não demonstra ganho posterior às recomendações. O próximo passo é relacionar a entrega aos dados de navegação e aos registros comerciais disponíveis.
 
-O material apoia o planejamento de análises e testes. Uma avaliação integrada do funil exige dados adicionais de jornada, contatos, agendamentos e vendas.
+Os indicadores não são usados, isoladamente, para afirmar escala garantida, reconhecimento de marca ou superioridade de um formato criativo.
 
-## Referências de mensuração
-
-- [Google Ads — interpretação dos dados de conversão](https://support.google.com/google-ads/answer/6270625?hl=pt-BR).
-- [Google Ads — valores de conversão](https://support.google.com/google-ads/answer/13064207?hl=pt-BR).
-
-[Ver aprofundamento de Google Ads](../google-ads-performance/README.md) · [Voltar ao portfólio](../README.md)
+[Ver análise conjunta de Meta Ads e Google Ads](../sao-lucas-estrategia/README.md) · [Voltar ao portfólio](../README.md)
