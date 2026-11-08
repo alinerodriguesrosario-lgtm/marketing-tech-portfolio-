@@ -1,4 +1,3 @@
-
 # Marketing Intelligence & SEO Opportunity Engine
 
 ### Inteligência de Demanda, SEO Analytics e Growth Ops para SaaS B2B
@@ -20,6 +19,8 @@ A solução utiliza Google Trends, BigQuery, Google Search Console, Google Analy
 O objetivo é transformar dados dispersos em informações acionáveis para o Marketing.
 
 > **Nota:** este repositório apresenta uma versão demonstrativa da metodologia utilizada em um projeto profissional. Os exemplos públicos utilizam dados sintéticos e não divulgam informações corporativas confidenciais.
+
+> **Conteúdo publicado:** esta pasta contém o README com a metodologia e os exemplos de expressões. As pastas de documentação complementar, SQL, dashboards, dados de exemplo e recursos visuais descritas ao final são uma estrutura planejada para a evolução da publicação.
 
 ---
 
@@ -290,11 +291,11 @@ SAFE_DIVIDE(
   SUM(cliques),
   SUM(impressoes)
 )
+```
 
 O resultado deve ser apresentado em formato percentual.
 
 Não é correto somar taxas de CTR de diferentes páginas ou consultas.
-
 
 ## Módulo 5: Priorização Estratégica de SEO
 
@@ -319,7 +320,6 @@ A etapa de priorização combina indicadores quantitativos e critérios de negó
 | Baixa | Menor potencial ou baixa aderência estratégica |
 
 A pontuação final depende de validação das métricas, da intenção das buscas e dos objetivos comerciais.
-
 
 ## Principais decisões técnicas
 
@@ -366,7 +366,20 @@ O evento `generate_lead` foi utilizado como indicador de geração de leads, suj
 
 Não são apresentados resultados de crescimento, ROI ou aumento de leads sem comprovação.
 
-## Estrutura do repositório
+## Conteúdo publicado e estrutura planejada
+
+### Publicado nesta pasta
+
+```text
+marketing-intelligence-seo-engine/
+└── README.md
+```
+
+O README descreve a metodologia e contém exemplos de expressões. A lista de entregas acima se refere ao trabalho descrito no case; ela não significa que todos os artefatos estejam disponíveis para download nesta pasta.
+
+### Organização planejada para os próximos arquivos
+
+A árvore abaixo é uma proposta de organização. As pastas e arquivos complementares ainda não foram publicados.
 
 ```text
 marketing-intelligence-seo-engine/
@@ -393,7 +406,6 @@ marketing-intelligence-seo-engine/
 └── assets/
     └── README.md
 ```
-
 
 ## Aprendizados
 
@@ -433,6 +445,8 @@ The portfolio demonstrates Marketing Ops, MarTech, SEO Analytics and Growth Anal
 
 All public examples use synthetic data. Business impact and attribution remain subject to validation.
 
+This public folder currently contains the README. The directory layout describes planned supporting files, not a complete downloadable implementation.
+
 ---
 
 ## Confidencialidade
@@ -442,3 +456,5 @@ Este repositório apresenta uma implementação demonstrativa para fins de portf
 Não contém dados reais de leads, credenciais, bases corporativas ou informações comerciais confidenciais.
 
 Qualquer divulgação de materiais derivados de projetos corporativos deve respeitar as políticas de confidencialidade e propriedade intelectual aplicáveis.
+
+[Voltar ao portfólio](../README.md)
