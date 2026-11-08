@@ -1,4 +1,4 @@
-Preparação e validação de dados de marketing com SQL e Apps Script
+### Preparação e validação de dados de marketing com SQL e Apps Script
 
 Case baseado em atividades reais na Milvus, com foco na organização de dados do RD Station para apoiar análises de marketing.
 
