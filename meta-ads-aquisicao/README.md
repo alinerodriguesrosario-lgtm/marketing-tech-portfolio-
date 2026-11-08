@@ -1,164 +1,142 @@
-## 📱 Meta Ads — Estratégia de Aquisição  
-**Cliente:** São Lucas (Serviços Laboratoriais)
+# 📊 Análise de Meta Ads e Google Ads | São Lucas e Seu Laboratório
 
----
+**Foco:** leitura conjunta de distribuição, tráfego, custos e conversões registradas em campanhas de serviços laboratoriais.
 
-### 🎯 Objetivo
+**Entrega:** comparação dos indicadores disponíveis e recomendações para segmentação, criativos, campanhas e validação da mensuração.
 
-Gerar **alcance e reconhecimento de marca**, com foco em:
+## Contexto e objetivo
 
-- eficiência de custo  
-- distribuição qualificada  
-- geração de interesse  
+O trabalho reuniu relatórios de Meta Ads e Google Ads para analisar diferentes aspectos da aquisição e orientar oportunidades de investigação e testes.
 
----
+A leitura conjunta permite observar o desempenho registrado em cada plataforma. Os materiais apresentados não conciliam a jornada de uma mesma pessoa entre os canais até o resultado comercial.
 
-### 📊 Resultados
+As capturas representam recortes históricos. Períodos, filtros e definições devem ser confirmados na fonte antes de comparações ou consolidações entre plataformas.
 
-| Métrica        | Resultado     |
-|----------------|---------------|
-| Alcance        | 105.105       |
-| Impressões     | 153.078       |
-| Cliques        | 1.440         |
-| CTR            | **0,94%**     |
-| CPC médio      | R$ 0,45       |
-| Investimento   | R$ 653,51     |
-| Frequência     | 1,46          |
-| CPM médio      | **R$ 4,27**   |
+## Meta Ads: distribuição e tráfego
 
----
+| Indicador | Valor exibido no relatório |
+| --- | ---: |
+| Investimento | R$ 653,51 |
+| Alcance | 105.105 |
+| Impressões | 153.078 |
+| Cliques no link | 1.440 |
+| CTR de cliques no link | 0,94% |
+| CPC médio | R$ 0,45 |
+| Frequência | 1,46 |
+| CPM médio | R$ 4,27 |
 
-### 📈 Principais Insights
+![Resumo de alcance, impressões, cliques no link e custos do Meta Ads.](./images/sao-lucas-meta-ads.png)
 
-#### 💰 Eficiência de mídia
-- CPC baixo  
-- CPM competitivo  
+*Figura 1 — Indicadores de distribuição e tráfego do Meta Ads no recorte apresentado.*
 
-➡️ Campanha com alta capacidade de escala a baixo custo.
+Os resultados descrevem a entrega e as interações registradas. A avaliação do CTR de 0,94% depende de objetivo, posicionamento, público, formato e histórico comparável; ele não é classificado como abaixo de um padrão universal.
 
----
+O alcance não comprova reconhecimento de marca medido, e o custo por clique não informa, isoladamente, qualidade dos contatos ou resultado comercial.
 
-#### ⚠️ Oportunidade de melhoria (CTR)
-CTR de 0,94% abaixo do ideal.
+## Google Ads: demanda de pesquisa e conversões registradas
 
-➡️ Indica necessidade de otimização em:
-- criativos  
-- copy  
-- segmentação  
+| Indicador | Valor exibido no relatório |
+| --- | ---: |
+| Investimento | R$ 1.533,04 |
+| Impressões | 31.370 |
+| Cliques | 4.712 |
+| CTR | 15,02% |
+| CPC médio | R$ 0,33 |
+| Conversões registradas | 1.490,52 |
+| Taxa de conversão | 31,63% |
+| Custo por conversão registrada | R$ 1,03 |
+| Valor das conversões | R$ 6.479,19 |
+| Relação valor das conversões / custo | 4,23 |
 
----
+![Resumo de tráfego, custo e conversões registradas no Google Ads.](./images/sao-lucas-google-ads-custo.png)
 
-#### 🌎 Distribuição geográfica
-- Forte concentração em São Paulo  
-- Outras regiões com menor eficiência  
+*Figura 2 — Consolidado do Google Ads, com contagem fracionada de conversões e valor atribuído às conversões.*
 
-➡️ Oportunidade de expansão com ajuste de segmentação.
+A contagem de 1.490,52 foi mantida como aparece na captura. Não deve ser interpretada como quantidade de pessoas únicas, reservas confirmadas ou exames realizados sem verificar as ações de conversão e conciliar os registros com a operação comercial.
 
----
+O quadro informa **Valor das conversões** de R$ 6.479,19. A razão entre esse valor e o investimento é aproximadamente 4,23, rotulada como ROAS no material original. A confirmação de receita recebida depende de verificar como os valores foram definidos e sua correspondência com vendas. A captura não demonstra lucro ou manutenção da rentabilidade após ampliação do investimento.
 
-#### ⏰ Comportamento por horário
-- Pico de cliques: **21h–23h**
+## Leitura conjunta dos canais
 
-➡️ Ajuste de entrega pode aumentar eficiência.
+A análise permite formular hipóteses sobre papéis complementares: Meta Ads pode apoiar distribuição e descoberta, enquanto campanhas de pesquisa podem atender demandas expressas nas consultas.
 
----
+Neste case, essas possibilidades orientam a investigação. Os relatórios não comprovam que uma exposição no Meta causou uma conversão posterior no Google, nem apresentam atribuição integrada até a venda.
 
-#### 👥 Faixa etária
-- Maior volume: **65+**
+Também não é adequado usar a diferença entre os CTRs de 0,94% e 15,02% como prova de superioridade de um canal: objetivos, formatos, contextos de exibição e definições das métricas precisam ser considerados.
 
-➡️ Alta aderência ao tema saúde e prevenção.
+## Recomendações
 
----
+- Confirmar períodos e filtros dos relatórios de cada plataforma.
+- Documentar quais ações entram nas conversões e como os valores são atribuídos.
+- Relacionar os contatos e agendamentos aos registros comerciais, quando disponíveis.
+- Comparar criativos dentro de objetivos e públicos equivalentes.
+- Investigar localização, horários e dispositivos com métricas de qualidade, além de volume.
+- Separar consultas de marca, termos genéricos e serviços no Google Ads.
+- Planejar testes com hipóteses, métricas e critérios de avaliação definidos.
+- Avaliar alterações de orçamento após validar a qualidade das conversões e a capacidade operacional.
 
-#### 📱 Dispositivo
-- **99% mobile**
+## Evidências complementares
 
-➡️ Estratégia deve ser totalmente mobile-first.
+### Distribuição geográfica no Meta Ads
 
----
+![Alcance por região no Meta Ads.](./images/sao-lucas-meta-ads-regiao-de-alcance.png)
 
-### 🧪 Criativos
+*Figura 3 — Distribuição geográfica para investigação da aderência à área atendida.*
 
-#### 🔝 Melhor anúncio
-**"A saúde é a nossa maior riqueza..."**
+### Cliques no link por horário
 
-- 772 cliques  
-- CPC: **R$ 0,08**
+![Distribuição dos cliques no link por horário.](./images/sao-lucas-meta-ads-cliques-no-link.png)
 
-➡️ Apelo emocional + linguagem simples = maior engajamento.
+*Figura 4 — Recorte de horários, que deve ser analisado em conjunto com investimento e qualidade dos contatos.*
 
----
+### Criativos do Meta Ads
 
-### 📉 Pontos de atenção
+![Anúncios apresentados no relatório de Meta Ads.](./images/sao-lucas-meta-ads-anuncios-em-destaque.png)
 
-- CPC elevado em alguns criativos (até R$ 0,66)  
-- CPM mais alto em anúncios menos relevantes  
+*Figura 5 — Criativos como insumo para hipóteses de teste; o recorte não isola o efeito do texto ou da imagem.*
 
-➡️ Baixa atratividade impactando custo da mídia.
+### Evolução dos indicadores no Google Ads
 
----
+![Séries de cliques, CTR, custo e CPC no Google Ads.](./images/sao-lucas-google-ads-clique-ctr-custo-cpc.png)
 
-### 💡 Oportunidades
+*Figura 6 — Evolução dos indicadores de tráfego e custo do recorte disponível.*
 
-#### 🎨 Criativos
-- Testes A/B com:
-  - apelo emocional  
-  - benefício direto  
-  - prova social  
+### Campanhas e grupos de anúncios
 
----
+![Indicadores por campanha no Google Ads.](./images/sao-lucas-google-ads-todas-campanhas.png)
 
-#### ✍️ Copy
-- foco em dor + solução  
-- linguagem mais direta e acessível  
+*Figura 7 — Comparação por campanha, com atenção ao mix de intenção e às ações de conversão consideradas.*
 
----
+![Indicadores por grupo de anúncios.](./images/sao-lucas-google-ads-grupo-de-anuncios.png)
 
-#### 🎯 Segmentação
-- separar públicos por faixa etária  
-- refinamento geográfico  
-- criação de públicos de remarketing  
+*Figura 8 — Recorte por grupo de anúncios para orientar investigação da estrutura.*
 
----
+### Palavras-chave e dispositivos
 
-#### ⚙️ Estratégia
-- ajuste de horários de veiculação  
-- estruturação de funil:
-  - awareness  
-  - consideração  
-  - conversão  
+![Indicadores por palavra-chave.](./images/sao-lucas-google-ads-resumo-palavras-chave-pesquisa.png)
 
----
+*Figura 9 — Palavras-chave como apoio à análise de consultas, marca e serviços.*
 
-### 🧠 Conclusão
+![Custo, conversões registradas e cliques por dispositivo.](./images/sao-lucas-google-ads-custo-conversao-cliques-dispositivos.png)
 
-A campanha apresentou **alta eficiência de distribuição e baixo custo**, com forte potencial de escala.
+*Figura 10 — Distribuição por dispositivo para orientar a análise da experiência de navegação.*
 
-➡️ O principal ponto de evolução está na **otimização criativa**, para aumentar a taxa de cliques e capturar melhor a atenção gerada.
+## O que o case demonstra
 
----
+- Leitura de indicadores de plataformas com objetivos e contextos distintos.
+- Organização de hipóteses e recomendações para mídia paga.
+- Atenção às definições de conversão e valor.
+- Distinção entre resultados de mídia e resultados comerciais confirmados.
 
-## 🖼️ Evidências Visuais
+## Limites e próximos passos
 
-### 📍 Regiões com maior alcance
-![Regiões](./images/sao-lucas-meta-ads-regiao-de-alcance.png)
+A validação deve incluir período, configuração das conversões, origem dos valores e conciliação com os registros comerciais. Não foram demonstrados efeitos posteriores das recomendações sobre receita, qualidade dos contatos ou rentabilidade.
 
----
+O material apoia o planejamento de análises e testes. Uma avaliação integrada do funil exige dados adicionais de jornada, contatos, agendamentos e vendas.
 
-### ⏰ Cliques por horário
-![Horário](./images/sao-lucas-meta-ads-cliques-no-link.png)
+## Referências de mensuração
 
----
+- [Google Ads — interpretação dos dados de conversão](https://support.google.com/google-ads/answer/6270625?hl=pt-BR).
+- [Google Ads — valores de conversão](https://support.google.com/google-ads/answer/13064207?hl=pt-BR).
 
-### 📢 Anúncios em destaque
-![Anúncios](./images/sao-lucas-meta-ads-anuncios-em-destaque.png)
-
----
-
-### 📊 Campanhas em destaque
-![Campanhas](./images/sao-lucas-meta-ads-campanhas-em-destaque.png)
-
----
-
-### 📌 Visão geral da campanha
-![Resumo](./images/sao-lucas-meta-ads.png)
+[Ver aprofundamento de Google Ads](../google-ads-performance/README.md) · [Voltar ao portfólio](../README.md)
