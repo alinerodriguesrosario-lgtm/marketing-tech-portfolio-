@@ -1,133 +1,131 @@
-# BigQuery, SQL e Apps Script para Marketing Ops | Milvus
+# Preparação e validação de dados de marketing com SQL e Apps Script
 
-**Foco:** preparação de bases, tratamento de dados e rotinas de integração para apoiar análises de marketing.
+Case baseado em atividades reais na Milvus, com foco na organização de dados do RD Station para apoiar análises de marketing.
 
-**Entrega:** estruturação de consultas SQL, módulos de Apps Script e documentação operacional para conectar dados do RD Station a uma base de análise.
+**Foco:** preparação de bases, tratamento de dados e rotinas de integração.
 
-**Status:** desenvolvimento incremental, com etapas validadas e pendências de integração identificadas.
+**Entrega:** consultas SQL, módulos de Apps Script e documentação operacional para conectar dados de marketing a uma base de análise.
 
-## Contexto
+**Status:** desenvolvimento incremental, com etapas validadas e pendências de integração e cobertura ainda em acompanhamento.
 
-Os dados de contatos, conversões e qualificação precisavam ser organizados para apoiar a leitura da operação de marketing. O desafio envolvia reunir informações do RD Station, conferir a consistência das cargas e preparar campos para consulta e visualização.
+## Contexto e desafio
 
-O trabalho foi desenvolvido de forma incremental: preparação de bases, testes de importação, ajustes de tipos e consultas, configuração de indicadores e registro das decisões técnicas.
+O projeto envolveu reunir informações de contatos, conversões e qualificação do RD Station, verificar a consistência das cargas e preparar os campos para consulta e visualização.
 
-## Meu papel
+Além de disponibilizar os dados, era necessário entender o significado de cada campo: uma data poderia representar a criação do contato, uma conversão ou a consulta à API; um registro comercial poderia representar um evento histórico ou uma oportunidade atual.
+
+As perguntas que orientaram o trabalho incluíram:
+
+- O total de linhas corresponde ao total de contatos únicos?
+- Há campos vazios ou valores que não foram convertidos corretamente?
+- Qual evento cada data representa?
+- O contato possui uma oportunidade atual ou apenas um registro histórico?
+- Quais informações precisam de revisão antes do encaminhamento comercial?
+
+## Minha participação
 
 Atuei na definição das necessidades de marketing, organização dos campos, acompanhamento das integrações e validação das informações apresentadas nas bases e no painel.
 
 Desenvolvi minha prática em SQL e Apps Script com apoio de IA na escrita e revisão de código. Minha participação incluiu traduzir perguntas de negócio em requisitos, aplicar e testar ajustes, investigar inconsistências e documentar o funcionamento das rotinas.
 
-## Problema de negócio
-
-Uma base disponível para consulta ainda precisa de critérios para ser usada em decisões. Algumas perguntas que orientaram o projeto foram:
-
-- O total de linhas corresponde ao total de contatos únicos?
-- Há campos vazios ou valores que não foram convertidos corretamente?
-- A data representa uma conversão, a criação do contato ou a consulta à API?
-- O contato possui uma oportunidade atual ou apenas um registro histórico?
-- Quais contatos precisam de revisão antes do encaminhamento comercial?
-
-## Estrutura trabalhada
+## Fluxo dos dados
 
 O fluxo documentado para os dados de contatos foi:
 
-**RD Station → Apps Script → Google Sheets → BigQuery → Looker Studio**
+**RD Station → Apps Script → Planilhas Google → BigQuery → Looker Studio**
 
-| Camada | Papel no projeto |
-|---|---|
-| RD Station | Fonte de contatos, conversões e informações de qualificação |
-| Apps Script | Consulta à API, importação em lotes, atualização e diagnóstico |
-| Google Sheets | Organização das bases e conferência operacional |
-| BigQuery | Leitura da base, tratamento de tipos e consultas de qualidade |
-| Looker Studio | Indicadores, filtros e tabelas para acompanhamento |
+A importação inicial de contatos e a atualização da base de qualificação foram documentadas como rotinas distintas, com campos e regras próprias. A captura de eventos comerciais também foi tratada separadamente da situação atual dos contatos.
 
-A importação inicial de contatos e a atualização da base de qualificação foram documentadas como rotinas distintas, com campos e finalidades próprios. A captura de eventos comerciais também foi tratada separadamente da situação atual dos contatos.
+## Preparação e tratamento no BigQuery
 
-## O que foi desenvolvido
+Foram estruturadas consultas para leitura da planilha por tabela externa, conferência de volumes, contagem de identificadores distintos, verificação de preenchimento, criação de uma visão com campos tipados e auditoria de valores não convertidos.
 
-### 1. Importação e atualização com Apps Script
+O esquema da visão analítica apresenta campos de texto, números inteiros e datas com horário. Essa estrutura permite trabalhar com os tipos adequados para filtros, contagens e análises temporais.
 
-Foram preparados módulos para consultar contatos por paginação, trabalhar em lotes, registrar progresso e apoiar a retomada após falhas.
+![Esquema da visão analítica no BigQuery, com campos STRING, INTEGER e TIMESTAMP.](imagens/01-esquema-bigquery.png)
 
-As rotinas incluíram conferência de UUIDs, comparação de totais, acompanhamento de status e preparação de acionadores. A documentação diferencia a conclusão de um lote da conclusão de toda a carga.
+*Figura 1 — Estrutura da visão analítica no BigQuery, com tipos definidos para campos de funil, conversões e informações comerciais.*
 
-### 2. Organização dos dados no BigQuery
+No trecho de SQL apresentado, `TRIM` remove espaços nas extremidades e `NULLIF` transforma textos vazios em `NULL`. Esse tratamento permite identificar a ausência de informação nesses campos sem representá-la como um texto vazio.
 
-Foram estruturados arquivos SQL para:
+![Trecho SQL com aplicação de NULLIF e TRIM aos campos da base.](imagens/03-tratamento-sql.png)
 
-- criar uma tabela externa de leitura da planilha;
-- conferir quantidade de linhas, contatos distintos e preenchimento dos campos;
-- criar uma visão com campos tipados;
-- auditar valores preenchidos que não puderam ser convertidos.
+*Figura 2 — Trecho da definição da visão analítica, com limpeza de campos de texto e tratamento de valores vazios. A imagem mostra a etapa de limpeza; os tipos finais aparecem no esquema da Figura 1.*
 
-O tratamento contemplou textos, números, datas, horários e booleanos. Valores ausentes ou inválidos foram preservados como desconhecidos quando apropriado, evitando transformar falta de informação em zero ou falso.
+## Evidência de validação da base
 
-### 3. Consultas para análise de marketing
+Na consulta registrada na captura, a visão retornou:
 
-As consultas e os exercícios aplicados envolveram seleção de campos, filtros, agrupamentos, contagens e inspeção de esquemas.
+| Verificação | Resultado |
+| --- | ---: |
+| Total de linhas | 49.227 |
+| Linhas sem estágio do funil | 0 |
+| Linhas sem origem da primeira conversão | 0 |
 
-O objetivo foi desenvolver uma base consultável para investigar origem, estágio de funil, conversões e situação comercial, respeitando os campos efetivamente disponíveis em cada fonte.
+A verificação considerou campos nulos e textos vazios após a remoção de espaços nas extremidades.
 
-### 4. Documentação dos códigos
+![Consulta de validação com 49.227 linhas e zero ausências nos dois campos verificados.](imagens/02-validacao-base.png)
 
-Os materiais foram organizados por finalidade, origem e versão, com explicações sobre:
+*Figura 3 — Resultado da consulta de volume e preenchimento na visão analítica, no momento da conferência.*
 
-- o que cada rotina faz;
-- quais são suas entradas e saídas;
-- quais funções permitem iniciar, acompanhar ou pausar o processamento;
-- quais etapas dependem de validação no ambiente real;
-- quais trechos são exemplos de aprendizado ou tentativas anteriores.
+Esses resultados demonstram o preenchimento dos dois campos avaliados nessa consulta. Não comprovam, por si só, a validade dos valores, a ausência de duplicidades ou a conclusão da carga. As **49.227 linhas não foram apresentadas como 49.227 contatos únicos**, pois essa consulta não contou UUIDs distintos.
 
-## Desafio técnico em destaque: consistência da carga
+## Rotina de importação em Apps Script
 
-Uma importação apresentou diferença entre a quantidade de linhas lidas e o total de UUIDs únicos. A rotina bloqueou a publicação da carga inconsistente.
+Foram configurados módulos para consultar contatos por paginação, processar lotes, registrar progresso e apoiar a retomada entre execuções.
 
-A investigação levou à revisão da ordenação da consulta e à manutenção de verificações antes da publicação. Esse episódio reforçou uma decisão central do projeto: **conferir a base antes de usá-la no dashboard**.
+O trecho apresentado contém os seguintes parâmetros:
 
-A repetição de UUIDs na leitura não foi tratada como prova de cadastros duplicados no RD Station. A base pode mudar durante a paginação, e a causa precisava ser investigada.
+| Parâmetro | Configuração |
+| --- | ---: |
+| Tamanho da página | 125 registros |
+| Páginas por lote | 20 |
+| Limite de tempo configurado para o lote | 90.000 ms (90 segundos) |
 
-## Decisões de qualidade dos dados
+O código também mostra o uso de `LockService` para impedir que uma nova execução prossiga enquanto outra mantém o bloqueio, a leitura do ID da planilha nas propriedades do script e a consulta ao estado salvo da carga.
 
-| Decisão | Por que importa |
-|---|---|
-| Comparar linhas e contatos distintos | Ajuda a identificar repetições e divergências na carga |
-| Auditar conversões de tipos | Evita que erros de formato passem despercebidos |
-| Preservar nulos | Mantém a diferença entre ausência de informação e resposta negativa |
-| Distinguir consulta à API de atividade do lead | Evita interpretar atualização técnica como intenção comercial |
-| Separar oportunidade histórica e situação atual | Apoia uma leitura mais cuidadosa para priorização |
-| Documentar versões e testes | Facilita manutenção, retomada e revisão dos ajustes |
+![Trecho de Apps Script com parâmetros de paginação, controle de execução e leitura do estado da carga.](imagens/04-importacao-apps-script.png)
 
-## Entregas e validação
+*Figura 4 — Rotina de importação com parâmetros de paginação e processamento em lotes, controle de execução simultânea e leitura do estado da carga.*
 
-| Entrega | Evidência disponível e estágio |
-|---|---|
-| Módulos de Apps Script | Arquivos de importação, atualização, diagnóstico e configuração recuperados |
-| Estrutura SQL | Arquivos de criação da tabela externa, visão tipada e consultas de conferência |
-| Documentação operacional | Manual, catálogo de códigos e lista de pendências organizados |
-| Filtros e acesso aos contatos no painel | Funcionamento confirmado durante os testes registrados no histórico |
-| Captura ampliada de conversões | Recebimento inicial registrado; cobertura geral ainda dependia de validação |
-| Atualização completa e contínua | Exige conferir a versão instalada, os acionadores e a inclusão de novos contatos |
+Os valores apresentados são configurações do código. Eles não representam volume efetivamente importado, duração medida ou garantia de conclusão em uma execução. A conclusão de um lote precisa ser diferenciada da conclusão de toda a carga.
 
-As entregas demonstram evolução na organização e validação da base analítica. Não foram medidos neste case ganho de receita, redução de custos ou economia de horas atribuíveis às rotinas.
+## Investigação de inconsistências
 
-## Aprendizados
+Durante os testes do projeto, uma importação apresentou diferença entre a quantidade de linhas lidas e o total de UUIDs únicos. A rotina bloqueou a publicação da carga inconsistente, e a investigação levou à revisão da ordenação da consulta e à manutenção das verificações antes da publicação.
 
-- O código precisa responder a uma pergunta de negócio e ter critérios de conferência.
-- Uma execução sem erro não significa que toda a base foi atualizada.
-- Tipos, nulos e significado das datas alteram a interpretação dos indicadores.
-- Documentar o funcionamento ajuda a explicar, manter e revisar uma integração.
-- SQL e Apps Script ampliaram minha capacidade de investigar dados e apoiar a operação de marketing.
+A repetição de UUIDs na leitura não foi tratada como prova de cadastros duplicados no RD Station. Alterações na base durante a paginação foram consideradas uma hipótese a investigar.
 
-## Próximos passos
+Esse episódio faz parte do histórico de desenvolvimento e é distinto da consulta de preenchimento exibida na Figura 3.
+
+## Documentação e aprendizados
+
+Os materiais foram organizados por finalidade, origem e versão, com descrição das entradas e saídas, funções de controle, dependências de validação no ambiente real e exemplos anteriores de aprendizado ou experimentação.
+
+Os principais aprendizados foram:
+
+- Traduzir perguntas de marketing em campos, consultas e critérios de conferência.
+- Diferenciar uma execução sem erro de uma atualização completa da base.
+- Considerar tipos, valores ausentes e significado dos dados na interpretação dos indicadores.
+- Documentar as rotinas para facilitar manutenção e revisão.
+- Usar SQL e Apps Script para investigar dados e apoiar a operação de marketing.
+
+## Limites e próximos passos
+
+O trabalho permanece em evolução. Não foram medidos ganhos de receita, redução de custos ou economia de horas atribuíveis às rotinas.
+
+As próximas etapas incluem:
 
 - Conferir os objetos existentes no BigQuery e as versões instaladas dos scripts.
 - Validar a atualização completa e a inclusão de novos contatos.
-- Concluir os testes de cobertura da captura de conversões.
-- Medir duração, falhas e completude das cargas ao longo do tempo.
+- Concluir os testes de cobertura da captura de detalhes.
+- Medir duração, falhas e conclusão das cargas ao longo do tempo.
 - Evoluir as análises de qualidade dos leads e encaminhamento comercial.
 
----
+## Conteúdo desta pasta
 
-*Case baseado em atividades reais na Milvus. A apresentação resume a arquitetura e as decisões do projeto, sem expor bases de contatos, credenciais ou identificadores internos. O trabalho permanece em evolução.*
+Esta pasta reúne o texto do case e as quatro capturas de evidência. Os módulos completos de Apps Script e os arquivos SQL não estão incluídos neste pacote.
+
+As capturas não exibem registros individuais de contatos ou valores de credenciais. As imagens do BigQuery ainda mostram nomes de projeto e objetos técnicos; sua divulgação deve seguir a autorização aplicável aos materiais da empresa.
+
 
