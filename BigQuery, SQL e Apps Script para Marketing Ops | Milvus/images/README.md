@@ -1,4 +1,4 @@
-# Preparação e validação de dados de marketing com SQL e Apps Script
+Preparação e validação de dados de marketing com SQL e Apps Script
 
 Case baseado em atividades reais na Milvus, com foco na organização de dados do RD Station para apoiar análises de marketing.
 
@@ -42,13 +42,13 @@ Foram estruturadas consultas para leitura da planilha por tabela externa, confer
 
 O esquema da visão analítica apresenta campos de texto, números inteiros e datas com horário. Essa estrutura permite trabalhar com os tipos adequados para filtros, contagens e análises temporais.
 
-![Esquema da visão analítica no BigQuery, com campos STRING, INTEGER e TIMESTAMP.](imagens/01-esquema-bigquery.png)
+![Esquema da visão analítica no BigQuery, com campos STRING, INTEGER e TIMESTAMP.](./01-esquema-bigquery.png)
 
 *Figura 1 — Estrutura da visão analítica no BigQuery, com tipos definidos para campos de funil, conversões e informações comerciais.*
 
 No trecho de SQL apresentado, `TRIM` remove espaços nas extremidades e `NULLIF` transforma textos vazios em `NULL`. Esse tratamento permite identificar a ausência de informação nesses campos sem representá-la como um texto vazio.
 
-![Trecho SQL com aplicação de NULLIF e TRIM aos campos da base.](imagens/03-tratamento-sql.png)
+![Trecho SQL com aplicação de NULLIF e TRIM aos campos da base.](./03-tratamento-sql.png)
 
 *Figura 2 — Trecho da definição da visão analítica, com limpeza de campos de texto e tratamento de valores vazios. A imagem mostra a etapa de limpeza; os tipos finais aparecem no esquema da Figura 1.*
 
@@ -64,7 +64,7 @@ Na consulta registrada na captura, a visão retornou:
 
 A verificação considerou campos nulos e textos vazios após a remoção de espaços nas extremidades.
 
-![Consulta de validação com 49.227 linhas e zero ausências nos dois campos verificados.](imagens/02-validacao-base.png)
+![Consulta de validação com 49.227 linhas e zero ausências nos dois campos verificados.](./02-validacao-base.png)
 
 *Figura 3 — Resultado da consulta de volume e preenchimento na visão analítica, no momento da conferência.*
 
@@ -84,7 +84,7 @@ O trecho apresentado contém os seguintes parâmetros:
 
 O código também mostra o uso de `LockService` para impedir que uma nova execução prossiga enquanto outra mantém o bloqueio, a leitura do ID da planilha nas propriedades do script e a consulta ao estado salvo da carga.
 
-![Trecho de Apps Script com parâmetros de paginação, controle de execução e leitura do estado da carga.](imagens/04-importacao-apps-script.png)
+![Trecho de Apps Script com parâmetros de paginação, controle de execução e leitura do estado da carga.](./04-importacao-apps-script.png)
 
 *Figura 4 — Rotina de importação com parâmetros de paginação e processamento em lotes, controle de execução simultânea e leitura do estado da carga.*
 
@@ -127,5 +127,3 @@ As próximas etapas incluem:
 Esta pasta reúne o texto do case e as quatro capturas de evidência. Os módulos completos de Apps Script e os arquivos SQL não estão incluídos neste pacote.
 
 As capturas não exibem registros individuais de contatos ou valores de credenciais. As imagens do BigQuery ainda mostram nomes de projeto e objetos técnicos; sua divulgação deve seguir a autorização aplicável aos materiais da empresa.
-
-
