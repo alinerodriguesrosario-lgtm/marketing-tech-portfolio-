@@ -110,7 +110,7 @@ Principais gargalos:
 
 ### ⚡ Performance Desktop (Depois)
 
-![Performance desktop depois](./images/pagspeed-desktop-dp)
+![Performance desktop depois](./images/pagespeed-desktop.png)
 
 **Resultados:**
 - Core Web Vitals aprovado  
