@@ -1,189 +1,122 @@
-
 ![Capa](./images/capa-.png)
 
 # 👩‍💻 Aline Rosário
 
-Projetos aplicados em **Marketing Ops, MarTech, SEO técnico, Marketing Intelligence, arquitetura de informação, mídia paga, dados e automação de marketing**, com foco em crescimento estruturado, mensurável e escalável.
+**Marketing Ops · MarTech · SEO Analytics**
 
----
+Conecto comunicação, dados e tecnologia para organizar a jornada digital, melhorar a mensuração e apoiar decisões de marketing.
 
-## ⚡ Competências & Ferramentas
+Este portfólio reúne projetos de integração de dados, tracking, arquitetura de páginas, CRM, SEO e mídia paga. Cada case apresenta seu contexto, entregas e limites de validação.
 
-Marketing Ops • Growth Ops • MarTech • Marketing Intelligence • SEO Técnico • Arquitetura de Informação • Estratégia Digital • Google Trends • Google Search Console • GA4 • Google Tag Manager • Google Ads • Meta Ads • Looker Studio • BigQuery • SQL • Google Apps Script • Google Sheets • RD Station • CRM • Tracking • Governança de Dados • GitHub
+[Projetos em destaque](#projetos-em-destaque) · [Outros cases](#outros-cases) · [Projeto em evolução](#projeto-em-evolução) · [Contato](#contato)
 
----
+## Projetos em destaque
 
-## 🚀 Projetos
+### 🗃️ Preparação e validação de dados | Milvus
 
-### 🗃️ BigQuery, SQL e Apps Script para Marketing Ops | Milvus
+**Desafio:** organizar dados do RD Station para consulta e análise de marketing.
 
-**Foco:** preparação de bases, tratamento de dados e rotinas de integração para apoiar análises de marketing.
+**Entrega:** consultas SQL, rotinas de Apps Script e documentação para preparação de campos, conferência das cargas e acompanhamento da integração.
 
-**Entrega:** consultas SQL, módulos de Apps Script e documentação operacional para organizar dados de contatos, conversões e qualificação.
+**Evidência apresentada:** consulta com 49.227 linhas e verificação de preenchimento em dois campos da visão analítica.
 
-**Tecnologias:** BigQuery • SQL • Google Apps Script • Google Sheets • Marketing Ops
+**Ferramentas:** BigQuery, SQL, Google Apps Script, Google Sheets e RD Station.  
+**Status:** em evolução, com etapas validadas e pendências documentadas.
 
-**Status:** projeto em evolução, com etapas validadas e pendências documentadas.
+➡️ [Ver case de dados e integração](./BigQuery%2C%20SQL%20e%20Apps%20Script%20para%20Marketing%20Ops%20%7C%20Milvus/images/README.md)
 
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/BigQuery%2C%20SQL%20e%20Apps%20Script%20para%20Marketing%20Ops%20%7C%20Milvus/images)
+### 📊 Auditoria de tracking | Milvus
 
----
+**Desafio:** revisar a consistência da mensuração entre site, formulários, plataformas de marketing e CRM.
+
+**Entrega:** diagnóstico de eventos, parâmetros e integrações, com identificação de riscos de duplicidade e documentação de critérios de validação da jornada.
+
+**Ferramentas:** Google Tag Manager, GA4, RD Station e CRM.
+
+➡️ [Ver case de auditoria de tracking](./case-portfolio-auditoria-correcao-tracking-gtm-milvus/README.md)
+
+### 🧭 Arquitetura de páginas, SEO e mensuração | Milvus
+
+**Desafio:** organizar páginas institucionais e comerciais por intenção de busca e etapa da jornada de um SaaS B2B.
+
+**Entrega:** proposta de arquitetura, briefings de conteúdo, orientação de CTAs e recomendações de SEO e tracking. A página de preços exemplifica o detalhamento, com capturas do site e configuração do evento `view_pricing` no GTM.
+
+**Competências:** arquitetura de informação, SEO técnico, estratégia de conteúdo e mensuração.  
+**Escopo:** planejamento das páginas e evidências de configuração, com limites de implementação e validação descritos no case.
+
+➡️ [Ver case com evidências](./Arquitetura-de-marketing-SEO-tracking-Milvus/README.md)  
+↳ [Consultar arquitetura e briefings detalhados](./milvus-site-architecture-seo-case/README.md)
+
+## Outros cases
+
+### 📧 Análise de campanhas de CRM | FEMME Laboratório da Mulher
+
+**Foco:** leitura dos volumes de envio, abertura e clique e organização dos indicadores para apoiar a análise de campanhas.
+
+**Entrega:** análise dos dados disponíveis e recomendações para investigação de conteúdo, segmentação e chamadas para ação.
+
+**Competências:** CRM, marketing analytics, consistência de indicadores e planejamento de testes.
+
+➡️ [Ver case de CRM](./femme-crm-performance/README.md)
+
+### 🔍 SEO técnico | Grupo Cecil
+
+**Foco:** indexação, desempenho do site e rastreamento.
+
+**Entrega:** diagnóstico técnico, registro de ajustes e comparação dos indicadores disponíveis nas ferramentas de análise.
+
+**Ferramentas:** Search Console, PageSpeed Insights, WordPress e Google Tag Manager.
+
+➡️ [Ver case de SEO técnico](./grupo-cecil-seo/README.md)
+
+### 📣 Análise de mídia paga | São Lucas e Seu Laboratório
+
+**Foco:** leitura conjunta de distribuição, tráfego, custos e conversões registradas em Meta Ads e Google Ads.
+
+**Entrega:** comparação dos relatórios disponíveis e recomendações para segmentação, criativos, campanhas e validação da mensuração.
+
+**Ferramentas:** Google Ads, Meta Ads e relatórios de marketing.
+
+➡️ [Ver case principal de mídia paga](./sao-lucas-estrategia/README.md)  
+↳ Aprofundamentos: [Google Ads](./google-ads-performance/README.md) · [Meta Ads](./meta-ads-aquisicao/README.md)
+
+## Projeto em evolução
 
 ### 📈 Marketing Intelligence & SEO Opportunity Engine | Milvus
 
-**Foco:** inteligência de demanda, análise de tendências de busca, SEO Analytics e integração de dados para identificar oportunidades de crescimento orgânico em SaaS B2B.
+**Foco:** relacionar tendências de busca, visibilidade orgânica e comportamento no site para investigar oportunidades de SEO.
 
-**Entrega:** estruturação de dados do Google Trends no BigQuery, classificação automatizada de palavras-chave, integração entre Google Search Console e GA4, construção de dashboards no Looker Studio e desenvolvimento de critérios para priorização de oportunidades de SEO e geração de leads.
+**Entrega documentada:** metodologia de integração, classificação de consultas, normalização de URLs e critérios exploratórios de priorização.
 
-**Tecnologias:** Google Trends • BigQuery • SQL • Google Search Console • GA4 • Looker Studio • RegExp
+**Ferramentas:** Google Trends, BigQuery, SQL, Search Console, GA4, Looker Studio e RegExp.  
+**Status:** documentação demonstrativa publicada; a organização dos arquivos complementares está identificada como planejada no case.
 
-**Status:** projeto em evolução, com módulos implementados e validação das métricas consolidadas em andamento.
+➡️ [Ver metodologia e próximos passos](./marketing-intelligence-seo-engine/README.md)
 
-➡️ [Ver projeto completo](./marketing-intelligence-seo-engine/README.md)
+## Competências e ferramentas
 
----
+| Frente | Aplicações e ferramentas |
+| --- | --- |
+| Dados e integração | SQL, BigQuery, Apps Script e Google Sheets |
+| Mensuração e automação | GA4, GTM, RD Station e CRM |
+| SEO e conteúdo | Search Console, Google Trends, arquitetura de informação e intenção de busca |
+| Análise e visualização | Looker Studio, indicadores e leitura de relatórios |
+| Aquisição | Google Ads, Meta Ads e análise de campanhas |
 
-### 📊 Auditoria de Tracking | Milvus
+## Como trabalho
 
-**Foco:** revisão da mensuração entre GTM, GA4, formulários, RD Station e CRM.
+Parto de uma pergunta de negócio, organizo os dados e critérios de conferência e documento as decisões. Na análise, separo observações, hipóteses, recomendações e resultados medidos. Os cases também registram as dependências de validação e os próximos passos de cada trabalho.
 
-**Entrega:** análise das implementações de tracking, identificação de inconsistências e documentação de ajustes para melhorar a confiabilidade das conversões e da atribuição.
+## Sobre
 
-**Tecnologias:** Google Tag Manager • GA4 • RD Station • CRM • Tracking
+Profissional de Comunicação, Branding e Marketing Digital, com atuação em operações de marketing, SEO, CRM, mídia paga e análise de dados.
 
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/case-portfolio-auditoria-correcao-tracking-gtm-milvus)
+Minha experiência conecta planejamento de comunicação, organização da jornada, integração entre ferramentas e documentação de processos. Nos projetos técnicos, apresento o escopo da minha participação e o estágio de desenvolvimento.
 
----
+🎓 Especialista em Mídia, Informação e Cultura — ECA/USP.
 
-### 🧭 Arquitetura de Páginas e SEO Técnico | Milvus
+## Contato
 
-**Foco:** reestruturação de páginas institucionais, comerciais, comparativas, de segurança e recursos para um site B2B SaaS.
-
-**Entrega:** proposta de arquitetura orientada à jornada do usuário, SEO técnico, confiança, prova social e apoio à conversão.
-
-**Páginas idealizadas:**
-
-- Sobre a Milvus
-- Central de Confiança
-- Help Desk com WhatsApp
-- Cases
-- Preços
-- Comparativos
-- Recursos
-
-**Tecnologias:** SEO Técnico • Arquitetura de Informação • UX • Estratégia Digital
-
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/Arquitetura-de-marketing-SEO-tracking-Milvus)
-
----
-
-### 📊 Análise de Performance de CRM | FEMME LABORATÓRIO DA MULHER
-
-**Foco:** análise estratégica de campanhas de CRM e identificação de oportunidades de otimização.
-
-**Entrega:** leitura de dados para apoiar decisões de relacionamento, ativação e melhoria de performance.
-
-**Competências:** CRM • Marketing Analytics • Análise de Campanhas • Relacionamento
-
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/femme-crm-performance)
-
----
-
-### 🔍 SEO Técnico | Grupo Cecil
-
-**Foco:** indexação, performance e rastreabilidade.
-
-**Resultado:** melhorias técnicas documentadas e estruturação da base para crescimento orgânico.
-
-**Competências:** SEO Técnico • Search Console • Análise de Performance • Otimização
-
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/grupo-cecil-seo)
-
----
-
-### 🚀 Performance Integrada | São Lucas
-
-**Foco:** leitura cruzada entre Meta Ads e Google Ads.
-
-**Entrega:** análise dos canais e recomendações para alocação de investimento e apoio à conversão.
-
-**Tecnologias:** Google Ads • Meta Ads • Marketing Analytics • Performance
-
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/sao-lucas-estrategia)
-
----
-
-### 📈 Google Ads | Conversão
-
-**Foco:** captura de demanda e análise da eficiência de aquisição.
-
-**Entrega:** avaliação de investimento, tráfego, conversões e oportunidades de otimização.
-
-**Tecnologias:** Google Ads • Google Analytics • Tracking • Performance
-
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/google-ads-performance)
-
----
-
-### 📊 Meta Ads | Alcance e Aquisição
-
-**Foco:** segmentação, distribuição e construção de audiência.
-
-**Entrega:** análise de alcance, custos, criativos e oportunidades de melhoria.
-
-**Tecnologias:** Meta Ads • Segmentação • Marketing Analytics • Aquisição
-
-➡️ [Ver projeto completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/meta-ads-aquisicao)
-
----
-
-## 🧠 Abordagem
-
-Estruturo o trabalho de marketing com base em:
-
-- Jornada do usuário e comportamento digital
-- Dados confiáveis, rastreáveis e organizados
-- Arquitetura clara de páginas e canais
-- Integração entre SEO, mídia paga, conteúdo e CRM
-- Governança de dados e padronização de processos
-- Inteligência de mercado e análise de tendências
-- Automação e integração entre plataformas
-- Construção de dashboards e indicadores de performance
-- Validação, experimentação e otimização contínua
-
-Busco conectar as necessidades do negócio à tecnologia, transformando dados em análises que apoiam decisões de marketing e crescimento.
-
----
-
-## 👩‍💻 Sobre
-
-Profissional de **Comunicação, Branding e Marketing Digital**, com atuação em Marketing Ops, MarTech, Growth Ops e inteligência de dados aplicada ao marketing.
-
-Experiência em:
-
-- SEO técnico e arquitetura de informação
-- Performance em Google Ads e Meta Ads
-- CRM, segmentação e automação de marketing
-- Tracking, mensuração e governança de dados
-- Google Analytics 4 e Google Tag Manager
-- Integração entre ferramentas e fontes de dados
-- Análise de métricas e construção de dashboards
-- SQL, BigQuery e Google Apps Script
-- Inteligência de demanda e identificação de oportunidades de aquisição
-- Documentação e melhoria contínua de processos
-
-Conecto **comunicação, dados e tecnologia** para estruturar operações de marketing mais consistentes, mensuráveis e escaláveis, com foco em eficiência operacional e crescimento sustentável.
-
-🎓 **Especialista em Mídia, Informação e Cultura — ECA/USP**
-
----
-
-## 📬 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alinerosario/)
-- 🎨 [Behance](https://www.behance.net/alinerosario)
-- 📧 [aline.rodrigues.rosario@gmail.com](mailto:aline.rodrigues.rosario@gmail.com)
-
----
-
-**Marketing Ops | MarTech | Growth Ops | SEO Analytics | Marketing Intelligence**
+- [LinkedIn](https://www.linkedin.com/in/alinerosario/)
+- [Behance](https://www.behance.net/alinerosario)
+- [E-mail](mailto:aline.rodrigues.rosario@gmail.com)
