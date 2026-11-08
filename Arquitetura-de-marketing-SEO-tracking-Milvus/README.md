@@ -1,53 +1,86 @@
 ### 🧩 Arquitetura de Marketing, SEO e Tracking | Milvus
 
-**Foco:** estruturação de páginas estratégicas, SEO técnico, tracking e jornada comercial para um B2B SaaS  
-**Resultado:** proposta de base mais organizada para conectar origem, comportamento, intenção, conversão e qualificação de leads
+**Foco:** arquitetura de páginas estratégicas, SEO, mensuração e jornada comercial para um SaaS B2B.
 
-Atuei na análise e organização da estrutura digital da Milvus, conectando site, páginas de conversão, SEO, mídia paga, analytics, automação de marketing e jornada comercial.
+**Entrega:** diagnóstico, propostas de arquitetura e conteúdo, briefings de páginas e organização da mensuração, com exemplo de configuração de evento no Google Tag Manager.
 
-O trabalho envolveu:
+Atuei na análise e organização da estrutura digital da Milvus, considerando as conexões entre site, páginas de conversão, SEO, mídia paga, analytics, automação de marketing e jornada comercial.
 
-- diagnóstico da jornada digital e das páginas de conversão;
-- revisão da arquitetura de mensuração;
-- mapeamento de eventos e conversões;
-- proposta de taxonomia para eventos comerciais;
-- recomendações para qualificação de leads;
-- organização de campos e parâmetros para leitura de origem, intenção e interesse;
-- estruturação de páginas estratégicas para SEO e fundo de funil;
-- recomendações para integração entre marketing, automação e vendas.
+Minha participação incluiu diagnóstico de arquitetura, definição de páginas e seções, direcionamento de SEO e preparação de briefings para redação, design e desenvolvimento, além de recomendações de tracking e qualificação de leads.
 
 #### Frentes trabalhadas
 
-- Arquitetura de páginas institucionais e comerciais
-- SEO técnico e organização por intenção de busca
-- Tracking e mensuração de eventos
-- Qualificação de leads
-- Integração entre analytics, mídia paga e automação de marketing
-- Páginas de confiança, comparativos, recursos, preços e cases
+- Diagnóstico da jornada digital e das páginas de conversão.
+- Organização de páginas por intenção de busca e etapa da jornada.
+- Proposta de páginas institucionais, Central de Confiança, Cases, Preços, Comparativos, Recursos e Help Desk com WhatsApp.
+- Definição de seções, hierarquia de conteúdo, CTAs e links internos.
+- Recomendações de SEO técnico e conteúdo, incluindo títulos, descrições e estrutura de headings.
+- Mapeamento de eventos e parâmetros para contextualizar navegação e conversões.
+- Recomendações de integração entre marketing, automação e vendas.
 
-#### O que a estrutura permitia medir
+#### Exemplo de aplicação: página de preços
 
-A proposta buscava ajudar o time a responder perguntas como:
+A página de preços foi uma das frentes detalhadas no planejamento. A proposta reuniu recomendações de SEO, mensagem inicial, diferenciação entre os perfis Talk, Ticket e TI, comparação de recursos, perguntas frequentes e CTAs para orientar a avaliação comercial.
 
-- qual origem trouxe o lead;
-- qual página iniciou a jornada;
-- qual página converteu;
-- qual CTA gerou a ação;
-- qual solução despertou interesse;
-- qual era o estágio do funil;
-- se a conversão veio de demo, teste, conteúdo, WhatsApp ou página comercial;
-- quais canais apoiavam leads com maior intenção;
-- quais páginas deveriam apoiar SEO, mídia e vendas.
+As capturas abaixo mostram a página consultada durante a preparação deste case. Elas ilustram o contexto comercial analisado; não constituem um comparativo de antes e depois nem comprovam a implementação integral da proposta.
 
-#### Cuidados aplicados
+![Mensagem inicial e CTA da página de preços da Milvus.](./pagina-precos.png)
 
-Por envolver dados, tracking e estratégia comercial, o projeto exigiu atenção a:
+*Figura 1 — Mensagem inicial e chamada para demonstração na página de preços consultada durante a preparação do case.*
 
-- governança de eventos;
-- consistência de nomenclatura;
-- separação entre microconversões e conversões comerciais;
-- preservação de dados de campanha;
-- validação antes de alterações em tags ou integrações;
-- alinhamento entre marketing, vendas e automação.
+![Apresentação dos perfis Talk, Ticket e TI na página de preços.](./pagina-precos-2.png)
 
-➡️ [Ver case completo](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/milvus-site-architecture-seo-case)
+*Figura 2 — Apresentação dos perfis Talk, Ticket e TI, com descrições das necessidades atendidas e exemplos de uso.*
+
+![Tabela de recursos por perfil na página de preços.](./pagina-precos-3.png)
+
+*Figura 3 — Comparação de recursos entre os perfis, como apoio à avaliação comercial. Preços e condições exibidos pertencem à captura e podem mudar.*
+
+#### Exemplo de configuração de tracking
+
+A captura do Google Tag Manager apresenta o evento `view_pricing`, associado a um acionador de exibição da página de preços.
+
+A configuração inclui:
+
+- classificação da página: `page_type = pricing` e `page_category = commercial`;
+- classificação de contexto no funil: `funnel_stage = bofu`;
+- identificação do produto: `product = milvus`;
+- variáveis de URL, caminho, domínio e título da página;
+- variáveis para os parâmetros de campanha `utm_source`, `utm_medium`, `utm_campaign`, `utm_content` e `utm_term`.
+
+![Configuração do evento view_pricing no Google Tag Manager, com parâmetros e acionador.](./pagina-tranking-precos.png)
+
+*Figura 4 — Configuração do evento `view_pricing`, com parâmetros de contexto da página, classificação de funil, variáveis de campanha e acionador associado.*
+
+A imagem documenta a configuração da tag. A confirmação do disparo e do recebimento no GA4 depende de teste específico. A classificação `bofu` descreve o contexto atribuído à página, sem comprovar a intenção ou a qualificação de cada visitante.
+
+#### O que a estrutura buscava permitir analisar
+
+Com implementação e validação das integrações necessárias, a proposta buscava preparar a base para responder:
+
+- Quais canais e campanhas contribuíram para as visitas e conversões?
+- Qual página iniciou a jornada e quais páginas foram acessadas antes da conversão?
+- Quais CTAs receberam cliques e quais formulários foram enviados?
+- Quais soluções e conteúdos despertaram interesse?
+- A conversão ocorreu por demonstração, teste, conteúdo, WhatsApp ou outro ponto de contato comercial?
+- Como relacionar o comportamento no site à qualificação e ao estágio comercial registrados na automação ou no CRM?
+
+O evento de visualização de preços é uma parte dessa estrutura. As demais perguntas dependem de eventos adicionais, identificação e integração entre fontes, conforme o escopo de cada análise.
+
+#### Cuidados considerados
+
+- Governança de eventos e consistência de nomenclatura.
+- Separação entre visualizações, microconversões, conversões principais e eventos comerciais.
+- Organização dos parâmetros de campanha e validação de sua disponibilidade ao longo da jornada.
+- Validação antes de alterações em tags ou integrações.
+- Uso de informações e provas sociais com validação interna.
+- Alinhamento entre marketing, vendas e automação.
+
+#### Entregas e limites do case
+
+O trabalho resultou em uma base de planejamento para orientar conteúdo, design, desenvolvimento e mensuração, com arquitetura recomendada, briefings de páginas, pontos de validação e recomendações de SEO e tracking.
+
+As evidências apresentadas reúnem o contexto da página consultada e uma configuração de tracking. Não foram apresentados neste case resultados medidos de aumento de conversão, tráfego orgânico ou qualidade dos leads atribuíveis às recomendações.
+
+➡️ [Ver case completo de arquitetura de páginas](https://github.com/alinerodriguesrosario-lgtm/marketing-tech-portfolio-/tree/Main/milvus-site-architecture-seo-case)
+
